@@ -228,7 +228,7 @@ class ShareModal extends Component {
             <p>
               <label htmlFor={shareTargetId}>{t("share.copy_prompt")}</label>
             </p>
-            <Grid container spacing={8}>
+            <Grid container spacing={1}>
               <Grid item xs={12} md={9}>
                 {inputBox}
               </Grid>

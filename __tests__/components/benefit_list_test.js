@@ -103,6 +103,6 @@ describe("BenefitList", () => {
   it("shows a loading circle when the page is loading", () => {
     let mounted = mount(<BenefitList {...props} {...reduxData} />);
     mounted.setState({ loading: true });
-    expect(mounted.find("CircularProgress").length).toEqual(1);
+    expect(mounted.find("circle").length).toEqual(1);
   });
 });

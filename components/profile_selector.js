@@ -59,7 +59,7 @@ export class ProfileSelector extends Component {
 
     return (
       <div>
-        <Grid container spacing={8}>
+        <Grid container spacing={1}>
           {jsx_array}
         </Grid>
       </div>
@@ -96,7 +96,4 @@ ProfileSelector.propTypes = {
   url: PropTypes.object.isRequired
 };
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(ProfileSelector);
+export default connect(mapStateToProps, mapDispatchToProps)(ProfileSelector);

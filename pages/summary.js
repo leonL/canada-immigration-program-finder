@@ -75,7 +75,7 @@ export class Summary extends Component {
           </div>
           <Paper padding="md" styles={box}>
             <AlphaBanner t={t} url={url} />
-            <Grid container spacing={24}>
+            <Grid container spacing={3}>
               <Grid item xs={12} css={questions}>
                 <Header size="md_lg" headingLevel="h2">
                   {t("ge.summary_subtitle")}
@@ -109,9 +109,9 @@ export class Summary extends Component {
                   <Button
                     id="nextButton"
                     onClick={() =>
-                      Router.push(mutateUrl(url, "/benefits-directory")).then(
-                        () => window.scrollTo(0, 0)
-                      )
+                      Router.push(
+                        mutateUrl(url, "/benefits-directory")
+                      ).then(() => window.scrollTo(0, 0))
                     }
                   >
                     {t("ge.show_results")}

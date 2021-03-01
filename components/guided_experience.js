@@ -206,7 +206,7 @@ export class GuidedExperience extends Component {
         </div>
         <Paper padding="md" styles={box}>
           <AlphaBanner t={t} url={url} />
-          <Grid container spacing={24} role="form">
+          <Grid container spacing={3} role="form">
             {id === indexSection ? (
               <React.Fragment>
                 <Grid item xs={12}>
@@ -238,14 +238,14 @@ export class GuidedExperience extends Component {
               {this.props.children}
             </Grid>
             <Grid item xs={12}>
-              <Grid container spacing={16}>
+              <Grid container spacing={2}>
                 <Grid
                   item
                   xs={12}
                   md={t("current-language-code") === "en" ? 8 : 12}
                   lg={8}
                 >
-                  <Grid container spacing={8} css={mobileReverse}>
+                  <Grid container spacing={1} css={mobileReverse}>
                     <HeaderLink
                       id="prevButton"
                       href={backUrl}

@@ -85,7 +85,7 @@ export class BenefitsPane extends Component {
       setSearchString
     } = this.props; // eslint-disable-line no-unused-vars
     return (
-      <Grid container spacing={16}>
+      <Grid container spacing={2}>
         <Grid item xs={12}>
           <Header
             className={"BenefitsCounter"}
@@ -128,7 +128,7 @@ export class BenefitsPane extends Component {
             </Grid>
 
             <Grid item xs={12}>
-              <Grid container spacing={24}>
+              <Grid container spacing={3}>
                 <ResultsHeader
                   benefitCount={filteredBenefits.length}
                   headerText={
@@ -236,7 +236,4 @@ BenefitsPane.propTypes = {
   store: PropTypes.object
 };
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(BenefitsPane);
+export default connect(mapStateToProps, mapDispatchToProps)(BenefitsPane);

@@ -110,4 +110,4 @@ Layout.defaultProps = {
   backgroundColor: globalTheme.colour.paleGrey
 };
 
-export default withTheme()(Layout);
+export default withTheme(Layout);

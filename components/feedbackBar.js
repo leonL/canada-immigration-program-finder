@@ -216,7 +216,7 @@ export class FeedbackBar extends Component {
             </div>
           ) : !this.state.feedbackSubmitted ? (
             <div css={Inner}>
-              <Grid container spacing={8}>
+              <Grid container spacing={1}>
                 <Grid item md={5} xs={12}>
                   <Header size="sm" headingLevel="h2" styles={whiteNormalFont}>
                     {t("feedback-prompt")}
