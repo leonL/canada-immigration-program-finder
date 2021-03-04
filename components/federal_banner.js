@@ -28,14 +28,14 @@ const mediaQuery = Object.keys(breakpoints).reduce((accumulator, label) => {
   return accumulator;
 }, {});
 
-const black_bg = css`
-  background-color: ${globalTheme.colour.headerBackground};
+const white_bg = css`
+  background-color: #fff;
   padding-bottom: 6px;
 `;
 
 const container = css`
   margin: 0px;
-  padding: 1rem 0rem 0.5rem 0rem;
+  padding-top: 10px;
   width: auto;
   justify-content: space-between;
   background-color: ${globalTheme.colour.greyishBrownTwo};
@@ -66,25 +66,24 @@ const container = css`
   `)};
 `;
 
-const mobileAlign = css`
-  ${mediaQuery.xs(css`
-    text-align: right;
-  `)};
+const languageSelection = css`
+  text-align: right;
+  padding-top: 10px;
 `;
 
 class FederalBanner extends Component {
   render() {
     const { t, skipLink, url, i18n } = this.props;
     return (
-      <div css={black_bg}>
+      <div css={white_bg}>
         <Container>
           <SkipToMainContent skipLink={skipLink} t={t} />
+          <div css={languageSelection}>
+            <LanguageButton i18n={i18n} t={t} url={url} />
+          </div>
           <div css={container}>
             <div className="svg-container">
-              <FIP fillColor="white" t={t} />
-            </div>
-            <div css={mobileAlign}>
-              <LanguageButton i18n={i18n} t={t} url={url} />
+              <FIP t={t} />
             </div>
           </div>
         </Container>
