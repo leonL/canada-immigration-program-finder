@@ -6,19 +6,19 @@ class FIP extends Component {
   constructor(props) {
     super(props);
 
-    this.state = { fillColor: props.fillColor, t: props.t };
+    this.state = { t: props.t };
   }
 
   render() {
-    const { t, fillColor } = this.props;
+    const { t } = this.props;
+    const fipRed = "#FF0000";
     const lang = t("current-language-code");
 
-    return <GOCSymbol lang={lang} fillColor={fillColor} />;
+    return <GOCSymbol lang={lang} fillColor={fipRed} />;
   }
 }
 
 FIP.propTypes = {
-  fillColor: PropTypes.string.isRequired,
   t: PropTypes.func.isRequired
 };
 
