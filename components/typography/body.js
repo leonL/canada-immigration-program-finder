@@ -8,7 +8,7 @@ const root = css`
   font-family: ${globalTheme.fontFamilySerif};
   font-size: 20px;
   font-weight: 300;
-  line-height: 1.5;
+  line-height: line-height: 1.4375;
   color: ${globalTheme.colour.fontColour};
   margin-bottom: 25px;
 `;

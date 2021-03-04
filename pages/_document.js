@@ -8,7 +8,7 @@ import { MuiThemeProvider } from "@material-ui/core/styles";
 import { globalTheme } from "../theme";
 
 const bodyStyling = {
-  fontFamily: globalTheme.fontFamilySerif,
+  fontFamily: globalTheme.fontFamilySansSerif,
   margin: 0,
   WebkitFontSmoothing: "antialiased",
   textRendering: "optimizeLegibility",

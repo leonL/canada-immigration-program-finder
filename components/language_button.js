@@ -4,6 +4,7 @@ import Link from "next/link";
 import { logEvent } from "../utils/analytics";
 /** @jsx jsx */
 import { css, jsx } from "@emotion/core";
+import { anchor } from "../utils/canada_ca_css_themes";
 import { globalTheme } from "../theme";
 import { mutateUrl } from "../utils/common";
 
@@ -55,7 +56,7 @@ class LanguageButton extends Component {
             <a
               id="changeLanguage"
               title={t("other-language-in-current-language")}
-              css={[buttonStyle, desktopButton]}
+              css={[anchor, desktopButton]}
               onClick={() => {
                 logEvent("Language change", t("other-language"));
                 url.query.lng = t("other-language-code");
