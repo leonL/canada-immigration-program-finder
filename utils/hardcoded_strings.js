@@ -14,8 +14,7 @@ exports.tableNames = [
 exports.getPageName = questionName => {
   const pageNameDict = {
     patronType: "",
-    patronLocation: "patronLocation",
-    patronAge: "patronAge",
+    visit_ResidentUS: "visit_ResidentUS",
     needs: "needs",
     summary: "summary",
     benefitsDirectory: "benefits-directory"
