@@ -17,6 +17,8 @@ exports.getPageName = questionName => {
     visitResidentUS: "visitResidentUS",
     visitWantWork: "visitWantWork",
     visitLess48Hr: "visitLess48Hr",
+    studyInCanada: "studyInCanada",
+    studyLength: "studyLength",
     needs: "needs",
     summary: "summary",
     benefitsDirectory: "benefits-directory"
