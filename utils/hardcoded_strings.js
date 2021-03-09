@@ -16,6 +16,7 @@ exports.getPageName = questionName => {
     patronType: "",
     visitResidentUS: "visitResidentUS",
     visitWantWork: "visitWantWork",
+    visitLess48Hr: "visitLess48Hr",
     needs: "needs",
     summary: "summary",
     benefitsDirectory: "benefits-directory"
