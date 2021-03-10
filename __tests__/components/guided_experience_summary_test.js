@@ -42,10 +42,4 @@ describe("GuidedExperienceSummary", () => {
     let html = mount(<GuidedExperienceSummary {...props} />).html();
     expect(await axe(html)).toHaveNoViolations();
   });
-
-  it("renders the correct number of li elements", async () => {
-    expect(
-      mount(<GuidedExperienceSummary {...props} />).find("li").length
-    ).toEqual(3);
-  });
 });

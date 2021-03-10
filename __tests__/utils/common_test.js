@@ -82,8 +82,8 @@ describe("showQuestion function", () => {
     expect(showQuestion("serviceType", 1, reduxState)).toEqual(false);
   });
 
-  it("shows needs if patronType not organization", () => {
-    reduxState.patronType = "servingMember";
+  it("shows needs only if patronType is veteran", () => {
+    reduxState.patronType = "veteran";
     expect(showQuestion("needs", 1, reduxState)).toEqual(true);
   });
 

@@ -36,7 +36,7 @@ export const showQuestion = (question_variable_name, index, reduxState) => {
     return true;
   }
   if (question_variable_name === "needs") {
-    return reduxState.patronType !== "organization";
+    return reduxState.patronType == "veteran";
   }
 
   const { questions } = reduxState;

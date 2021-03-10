@@ -167,6 +167,6 @@ describe("GuidedExperience", () => {
         .first()
         .parent()
         .props().href
-    ).toEqual("/needs?lng=en&selectedNeeds=1,2");
+    ).toEqual("/benefits-directory?lng=en&selectedNeeds=1,2");
   });
 });
