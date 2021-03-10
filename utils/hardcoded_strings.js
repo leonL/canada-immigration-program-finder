@@ -23,6 +23,10 @@ exports.getPageName = questionName => {
     workCaregiver: "workCaregiver",
     workVocationList: "workVocationList",
     workQuebec: "workQuebec",
+    moveWorkExperience: "moveWorkExperience",
+    moveCaregiver: "moveCaregiver",
+    moveSpouse: "moveSpouse",
+    moveChildren: "moveChildren",
     needs: "needs",
     summary: "summary",
     benefitsDirectory: "benefits-directory"
