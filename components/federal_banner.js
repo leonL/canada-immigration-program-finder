@@ -30,7 +30,8 @@ const mediaQuery = Object.keys(breakpoints).reduce((accumulator, label) => {
 
 const white_bg = css`
   background-color: #fff;
-  padding-bottom: 6px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid #38414d;
 `;
 
 const container = css`
