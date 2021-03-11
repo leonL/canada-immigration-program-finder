@@ -22,7 +22,7 @@ let theme = {
   colour: {
     textColour: "#3d3d3d",
     paleGrey: "#eaebed",
-    backgroundFillColour: "#F2F5F8",
+    backgroundFillColour: "#FFF",
     backgroundFillColour2: "#E1E4E7",
     backgroundFillColour3: "#066169",
     backgroundFillColour4: "#232323",
