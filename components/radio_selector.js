@@ -24,14 +24,14 @@ const formLabel = css`
   letter-spacing: normal;
 `;
 const radioOption = css`
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 `;
 const underline = css`
   line-height: 160%;
   border-bottom: 2px dotted ${globalTheme.colour.fontColour};
 `;
 const leftIndent = css`
-  margin-left: 40px;
+  margin-left: 0px;
   @media only screen and (max-width: ${globalTheme.max.xs}) {
     margin-left: 0px;
   }
@@ -199,7 +199,4 @@ RadioSelector.propTypes = {
   url: PropTypes.object.isRequired
 };
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(RadioSelector);
+export default connect(mapStateToProps, mapDispatchToProps)(RadioSelector);
