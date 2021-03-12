@@ -213,7 +213,7 @@ export class GuidedExperience extends Component {
                   <Header size="xl" headingLevel="h1">
                     {t("ge.Find benefits and services")}
                   </Header>
-                  {id === indexSection ? (
+                  {id === -1 ? (
                     <React.Fragment>
                       <Body styles={greyBox}>
                         <p>{t("ge.intro_text_p1")}</p>
