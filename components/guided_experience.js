@@ -207,7 +207,7 @@ export class GuidedExperience extends Component {
         <Paper padding="md" styles={box}>
           <AlphaBanner t={t} url={url} />
           <Grid container spacing={3} role="form">
-            {id === indexSection ? (
+            {id === -1 ? (
               <React.Fragment>
                 <Grid item xs={12}>
                   <Header size="xl" headingLevel="h1">
