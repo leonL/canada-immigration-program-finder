@@ -7,10 +7,11 @@ import HeaderLink from "./header_link";
 
 const greyBanner = css`
   font-family: ${globalTheme.fontFamilySansSerif};
-  margin: 30px 0;
-  font-weight: 700;
-  color: ${globalTheme.colour.fontColour};
   font-size: 16px;
+  line-height: 1.4375;
+  color: #333;
+  margin: 30px 0;
+  font-weight: 400;
   background-color: ${globalTheme.colour.backgroundFillColour};
   @media only screen and (max-width: ${globalTheme.max.xs}) {
     margin: 11px 0;
@@ -18,23 +19,21 @@ const greyBanner = css`
 `;
 
 const separator = css`
-  color: ${globalTheme.colour.accentFontColour2};
+  color: ${globalTheme.colour.breadcrumbFontColour};
   font-weight: normal;
-  padding: 2px;
+  padding: 10px;
 `;
 
 const urlStyle = css`
-  color: ${globalTheme.colour.accentFontColour2};
+  color: ${globalTheme.colour.breadcrumbFontColour};
   text-decoration: underline;
   font-size: 16px;
-  font-weight: 700;
   padding: 0;
 `;
 
 const currentPageStyle = css`
-  color: ${globalTheme.colour.accentFontColour2};
+  color: ${globalTheme.colour.breadcrumbFontColour};
   font-size: 16px;
-  font-weight: 700;
   padding: 0;
 `;
 

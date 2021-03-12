@@ -27,6 +27,7 @@ let theme = {
     backgroundFillColour3: "#066169",
     backgroundFillColour4: "#232323",
     fontColour: "#333",
+    breadcrumbFontColour: "#284162",
     accentFontColour: "#333",
     accentFontColour2: "#333",
     cerulean: "#006cc9",
