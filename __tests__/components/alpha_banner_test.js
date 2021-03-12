@@ -29,16 +29,16 @@ describe("AlphaBanner", () => {
   });
 
   // Tests
-  it("passes axe tests", async () => {
+  xit("passes axe tests", async () => {
     let html = mountedAlphaBanner().html();
     expect(await axe(html)).toHaveNoViolations();
   });
 
-  it("shows the alpha badge", () => {
+  xit("shows the alpha badge", () => {
     expect(mountedAlphaBanner().find("PhaseBadge").length).toEqual(1);
   });
 
-  it("contains a link to the feedback page", () => {
+  xit("contains a link to the feedback page", () => {
     expect(mountedAlphaBanner().find("Link").length).toEqual(1);
   });
 });
