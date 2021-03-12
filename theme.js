@@ -1,6 +1,7 @@
 let theme = {
   fontFamilySerif: "Source Sans Pro",
   fontFamilySansSerif: "'Noto Sans', sans-serif",
+  questionFont: "Lato, sans-serif",
   marginTop: "25px", //used in place of theme.spacing.unit *3
   unit: "8px",
   cardPadding: "35px",

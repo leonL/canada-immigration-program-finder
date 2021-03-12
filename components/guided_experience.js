@@ -221,7 +221,7 @@ export class GuidedExperience extends Component {
               </React.Fragment>
             ) : null}
             <Grid item xs={12} css={questions}>
-              <Header size="md_lg" headingLevel="h2">
+              <Header size="q" headingLevel="h2">
                 {this.getSubtitle(question)}
               </Header>
               {question.tooltip_english && question.tooltip_english !== "" ? (

@@ -34,6 +34,12 @@ const sizeDict = {
     fontSize: 18,
     fontWeight: "bold",
     fontFamily: globalTheme.fontFamilySansSerif
+  },
+  q: {
+    fontSize: 36,
+    fontWeight: 600,
+    fontFamily: globalTheme.questionFont,
+    borderBottom: "1px solid #af3c43"
   }
 };
 
@@ -41,6 +47,7 @@ class Header extends Component {
   style = css`
     font-family: ${sizeDict[this.props.size].fontFamily};
     font-size: ${sizeDict[this.props.size].fontSize}px;
+    border-bottom: ${sizeDict[this.props.size].borderBottom || "0px"};
     @media only screen and (max-width: ${globalTheme.max.xs}) {
       font-size: ${0.8 * sizeDict[this.props.size].fontSize}px;
       line-height: 1.2;
