@@ -38,11 +38,7 @@ const greyBox = css`
 `;
 
 const box = css`
-  padding: ${globalTheme.cardPadding};
-  padding-top: 24px;
-  @media only screen and (max-width: ${globalTheme.max.xs}) {
-    padding: 17px 26px 55px 26px;
-  }
+  padding: 0px;
 `;
 const alignRight = css`
   text-align: right;

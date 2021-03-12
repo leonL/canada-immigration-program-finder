@@ -13,15 +13,9 @@ class Paper extends Component {
     xl: "45px"
   };
   style = css`
-    box-shadow: ${globalTheme.boxShadow};
-    padding: ${this.padding[this.props.padding]};
     background-color: white;
     box-sizing: border-box;
     width: 100%;
-    border-top: 8px solid ${globalTheme.colour.borderGreen};
-    @media only screen and (max-width: ${globalTheme.max.xs}) {
-      padding: ${this.paddingMobile[this.props.padding]};
-    }
   `;
   render() {
     return (

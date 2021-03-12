@@ -4,28 +4,10 @@ import PropTypes from "prop-types";
 import { css, jsx } from "@emotion/core";
 
 const containerStyle = css`
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 20px;
+  padding-left: 20px;
   margin-right: auto;
   margin-left: auto;
-  @media (min-width: 768px) {
-    width: 750px;
-  }
-  @media (min-width: 992px) {
-    width: 970px;
-  }
-  @media (min-width: 1200px) {
-    width: 1170px;
-  }
-`;
-
-const morePaddingIfBig = css`
-  position: relative;
-  min-height: 1px;
-  @media (min-width: 768px) {
-    padding-right: 15px;
-    padding-left: 15px;
-  }
 `;
 
 class Container extends Component {
@@ -34,7 +16,7 @@ class Container extends Component {
     if (this.props.className) css = [containerStyle, this.props.className];
     return (
       <div css={css} id={this.props.id ? this.props.id : ""}>
-        <div css={morePaddingIfBig}>{this.props.children}</div>
+        <div>{this.props.children}</div>
       </div>
     );
   }
