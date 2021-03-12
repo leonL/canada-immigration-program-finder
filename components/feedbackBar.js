@@ -149,115 +149,131 @@ export class FeedbackBar extends Component {
   };
 
   render() {
-    const { t } = this.props;
+    const { t, show } = this.props;
+    let feedbackBar;
 
-    return (
-      <div
-        css={FeedbackWrapper}
-        aria-label={t("feedback.page_title")}
-        role="complementary"
-      >
-        {this.state.commentFormToggled ? (
-          <div css={CommentBox} role="form">
-            <Header size="lg" headingLevel="h2" styles={topHeading}>
-              {t("comment-help-us-improve")}
-            </Header>
-            <p css={pStyle}>{t("comment-privacy-disclaimer")}</p>
-            <div css={TextHold}>
-              <TextArea
-                id="commentTextArea"
-                name="bugFiling"
-                maxLength={500}
-                t={t}
-                css={textArea}
-                onChange={
-                  this.state.commentIsBug
-                    ? this.handleChange("bug")
-                    : this.handleChange("infoBeMoreUseful")
-                }
-              >
-                {this.state.commentIsBug
-                  ? t("comment-what-went-wrong")
-                  : t("feedback.how_can_info_be_more_useful")}
-              </TextArea>
-            </div>
-            <br />
-            <SubmitButton
-              id="sendComment"
-              arrow={true}
-              size="big"
-              onClick={() => this.sendComment()}
-            >
-              {t("send")}
-            </SubmitButton>
-            &nbsp; &nbsp;
-            <FooterButton
-              id="cancelComment"
-              css={cancelButton}
-              onClick={() => this.cancelComment()}
-            >
-              {t("cancel")}
-            </FooterButton>
-          </div>
-        ) : null}
-        <div css={Div}>
-          {this.state.feedbackSubmitted && !this.state.commentFormToggled ? (
-            <div css={Inner}>
-              <Header size="sm" headingLevel="h2" styles={whiteNormalFont}>
-                {t("feedback.response_p1")}
+    if (show) {
+      feedbackBar = (
+        <div
+          css={FeedbackWrapper}
+          aria-label={t("feedback.page_title")}
+          role="complementary"
+        >
+          {this.state.commentFormToggled ? (
+            <div css={CommentBox} role="form">
+              <Header size="lg" headingLevel="h2" styles={topHeading}>
+                {t("comment-help-us-improve")}
               </Header>
-              <FooterButton
-                id="feedbackReset"
-                css={resetButton}
-                onClick={() => this.resetFeedback()}
+              <p css={pStyle}>{t("comment-privacy-disclaimer")}</p>
+              <div css={TextHold}>
+                <TextArea
+                  id="commentTextArea"
+                  name="bugFiling"
+                  maxLength={500}
+                  t={t}
+                  css={textArea}
+                  onChange={
+                    this.state.commentIsBug
+                      ? this.handleChange("bug")
+                      : this.handleChange("infoBeMoreUseful")
+                  }
+                >
+                  {this.state.commentIsBug
+                    ? t("comment-what-went-wrong")
+                    : t("feedback.how_can_info_be_more_useful")}
+                </TextArea>
+              </div>
+              <br />
+              <SubmitButton
+                id="sendComment"
+                arrow={true}
+                size="big"
+                onClick={() => this.sendComment()}
               >
-                {t("feedback.response_p2")}
+                {t("send")}
+              </SubmitButton>
+              &nbsp; &nbsp;
+              <FooterButton
+                id="cancelComment"
+                css={cancelButton}
+                onClick={() => this.cancelComment()}
+              >
+                {t("cancel")}
               </FooterButton>
             </div>
-          ) : !this.state.feedbackSubmitted ? (
-            <div css={Inner}>
-              <Grid container spacing={1}>
-                <Grid item md={5} xs={12}>
-                  <Header size="sm" headingLevel="h2" styles={whiteNormalFont}>
-                    {t("feedback-prompt")}
-                  </Header>
-                </Grid>
-                <Grid item md={3} xs={4}>
-                  <FooterButton
-                    id="feedbackYes"
-                    onClick={() => this.sendFeedback("Yes")}
-                  >
-                    {t("yes")}
-                  </FooterButton>
-                  &nbsp; &nbsp;
-                  <FooterButton
-                    id="feedbackNo"
-                    onClick={() => this.sendFeedback("No")}
-                  >
-                    {t("no")}
-                  </FooterButton>
-                </Grid>
-                <Grid item md={4} xs={8}>
-                  <Header size="sm" headingLevel="h2" styles={fileBugHeader}>
-                    <FooterButton
-                      id="feedbackBug"
-                      onClick={() => this.sendFeedback("Bug")}
-                    >
-                      {t("feedback.bug_prompt")}
-                    </FooterButton>
-                  </Header>
-                </Grid>
-              </Grid>
-            </div>
           ) : null}
+          <div css={Div}>
+            {this.state.feedbackSubmitted && !this.state.commentFormToggled ? (
+              <div css={Inner}>
+                <Header size="sm" headingLevel="h2" styles={whiteNormalFont}>
+                  {t("feedback.response_p1")}
+                </Header>
+                <FooterButton
+                  id="feedbackReset"
+                  css={resetButton}
+                  onClick={() => this.resetFeedback()}
+                >
+                  {t("feedback.response_p2")}
+                </FooterButton>
+              </div>
+            ) : !this.state.feedbackSubmitted ? (
+              <div css={Inner}>
+                <Grid container spacing={1}>
+                  <Grid item md={5} xs={12}>
+                    <Header
+                      size="sm"
+                      headingLevel="h2"
+                      styles={whiteNormalFont}
+                    >
+                      {t("feedback-prompt")}
+                    </Header>
+                  </Grid>
+                  <Grid item md={3} xs={4}>
+                    <FooterButton
+                      id="feedbackYes"
+                      onClick={() => this.sendFeedback("Yes")}
+                    >
+                      {t("yes")}
+                    </FooterButton>
+                    &nbsp; &nbsp;
+                    <FooterButton
+                      id="feedbackNo"
+                      onClick={() => this.sendFeedback("No")}
+                    >
+                      {t("no")}
+                    </FooterButton>
+                  </Grid>
+                  <Grid item md={4} xs={8}>
+                    <Header size="sm" headingLevel="h2" styles={fileBugHeader}>
+                      <FooterButton
+                        id="feedbackBug"
+                        onClick={() => this.sendFeedback("Bug")}
+                      >
+                        {t("feedback.bug_prompt")}
+                      </FooterButton>
+                    </Header>
+                  </Grid>
+                </Grid>
+              </div>
+            ) : null}
+          </div>
         </div>
-      </div>
-    );
+      );
+    } else {
+      feedbackBar = false;
+    }
+
+    return feedbackBar;
   }
 }
 
 FeedbackBar.propTypes = {
-  t: PropTypes.func.isRequired
+  t: PropTypes.func.isRequired,
+  show: PropTypes.bool
+};
+
+FeedbackBar.defaultProps = {
+  show: true
 };
 
 export default FeedbackBar;

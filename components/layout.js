@@ -79,7 +79,7 @@ class Layout extends Component {
             </Content>
             <div css={backgoundColour1}>
               <Container>
-                <FeedbackBar t={t} />
+                <FeedbackBar t={t} show={false} />
               </Container>
             </div>
             <div css={footerColour}>
