@@ -19,13 +19,18 @@ import { globalTheme } from "../theme";
 
 const Content = styled("div")`
   min-height: calc(100vh - 165px);
+  margin-bottom: 100px;
 `;
 
 const backgoundColour1 = css`
   background-color: ${globalTheme.colour.backgroundFillColour4};
 `;
-const footerColour = css`
-  background-color: ${globalTheme.colour.headerBackground};
+const footerStyles = css`
+  background-color: ${globalTheme.colour.footerBackground};
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
 `;
 const theme = createMuiTheme({
   breakpoints: {
@@ -82,7 +87,7 @@ class Layout extends Component {
                 <FeedbackBar t={t} show={false} />
               </Container>
             </div>
-            <div css={footerColour}>
+            <div css={footerStyles}>
               <Container>
                 <Footer t={t} />
               </Container>
