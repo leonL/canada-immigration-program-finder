@@ -72,7 +72,15 @@ const mobileLabelStyle = css`
 
 const sidebarLabelStyle = css({
   fontSize: "14px !important",
-  padding: "6px 10px 15px 12px !important"
+  padding: "6px 10px 15px 8px !important",
+  ":before": {
+    width: "30px !important",
+    height: "30px !important"
+  },
+  ":after": {
+    top: "5px !important",
+    left: "5px !important"
+  }
 });
 
 const Radio = ({ children, styles, value, sidebar, ...input }) => (

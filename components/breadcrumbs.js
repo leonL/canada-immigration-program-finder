@@ -10,7 +10,7 @@ const greyBanner = css`
   font-size: 16px;
   line-height: 1.4375;
   color: #333;
-  margin: 30px 0;
+  margin: 30px 0 10px;
   font-weight: 400;
   background-color: ${globalTheme.colour.backgroundFillColour};
   @media only screen and (max-width: ${globalTheme.max.xs}) {

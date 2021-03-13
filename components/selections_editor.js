@@ -19,7 +19,6 @@ const root = css`
   background-color: ${globalTheme.colour.white} !important;
   border: thin solid ${globalTheme.colour.backgroundFillColour2} !important;
   box-shadow: none !important;
-  margin-top: 30px;
 `;
 const clearButton = css`
   font-size: 16px;
@@ -34,8 +33,8 @@ const clearButton = css`
   text-decoration: underline;
 `;
 const filterTitle = css`
-  font-size: 22px;
-  color: ${globalTheme.colour.fontColour};
+  font-size: 18px;
+  color: white;
 `;
 const divider = css`
   border-top: 1px solid ${globalTheme.colour.backgroundFillColour2};
@@ -83,6 +82,7 @@ export class SelectionsEditor extends Component {
                 {t("directory.edit_selections")}
               </Header>
             }
+            open
           >
             <React.Fragment>
               <Grid item xs={12}>
@@ -144,7 +144,4 @@ SelectionsEditor.propTypes = {
   store: PropTypes.object
 };
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(SelectionsEditor);
+export default connect(mapStateToProps, mapDispatchToProps)(SelectionsEditor);

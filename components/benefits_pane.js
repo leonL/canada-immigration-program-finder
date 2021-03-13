@@ -12,23 +12,22 @@ import {
 } from "../selectors/benefits";
 /** @jsx jsx */
 import { css, jsx } from "@emotion/core";
-import Header from "./typography/header";
-import SearchBox from "./search_box";
 import { getBenefitCountString } from "../utils/common";
-import NoResultsButtons from "./no_results_buttons";
 import ResultsHeader from "./results_header";
 import Router from "next/router";
 import { mutateUrl } from "../utils/common";
+import Header from "./typography/header";
+import SearchBox from "./search_box";
 
 const title = css`
-  padding-bottom: 15px;
+  padding-bottom: 0px;
 `;
 const spacer = css`
   margin-top: 40px;
   width: 100%;
 `;
 const bottomPadding = css`
-  padding-bottom: 27px;
+  padding-bottom: 10px;
 `;
 
 export class BenefitsPane extends Component {
@@ -81,8 +80,7 @@ export class BenefitsPane extends Component {
       nonFilteredBenefits,
       searchString,
       reduxState,
-      store,
-      setSearchString
+      store
     } = this.props; // eslint-disable-line no-unused-vars
     return (
       <Grid container spacing={2}>
@@ -102,15 +100,7 @@ export class BenefitsPane extends Component {
                   )
                 )}
           </Header>
-          {filteredBenefitsWithoutSearch.length === 0 ? (
-            <NoResultsButtons
-              clearFilters={this.clearFilters}
-              url={this.props.url}
-              t={t}
-            />
-          ) : null}
         </Grid>
-
         {filteredBenefitsWithoutSearch.length === 0 ? null : (
           <React.Fragment>
             <Grid item xs={12}>
@@ -126,7 +116,6 @@ export class BenefitsPane extends Component {
                 />
               </div>
             </Grid>
-
             <Grid item xs={12}>
               <Grid container spacing={3}>
                 <ResultsHeader

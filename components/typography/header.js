@@ -40,6 +40,12 @@ const sizeDict = {
     fontWeight: 600,
     fontFamily: globalTheme.questionFont,
     borderBottom: "1px solid #af3c43"
+  },
+  bb: {
+    fontSize: 56,
+    fontWeight: 300,
+    fontFamily: globalTheme.fontFamilySerif,
+    marginBottom: "15px"
   }
 };
 
@@ -54,7 +60,7 @@ class Header extends Component {
     }
     font-weight: ${sizeDict[this.props.size].fontWeight};
     color: ${globalTheme.colour.fontColour};
-    margin: 0px;
+    margin: 0px 0px ${sizeDict[this.props.size].marginBottom || "0px"} 0px;
     padding-top: ${this.props.paddingTop}px;
     outline: 0;
   `;
