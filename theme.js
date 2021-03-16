@@ -47,6 +47,8 @@ let theme = {
     hoverBackground: "#f6f9fa",
     button1: "#066169",
     button1Hover: "#0aa4b1",
+    buttonPrimaryCanadaCa: "#26374a",
+    buttonPrimaryHoverCanadaCa: "#1c578a",
     headerBackground: "#000",
     footerBackground: "#F8F8F8"
   }
