@@ -89,7 +89,7 @@ export class BenefitsPane extends Component {
             className={"BenefitsCounter"}
             styles={title}
             size="md"
-            headingLevel="h3"
+            headingLevel="h2"
             autoFocus={true}
           >
             {filteredBenefitsWithoutSearch.length === 0
@@ -133,7 +133,7 @@ export class BenefitsPane extends Component {
                   currentLanguage={t("current-language-code")}
                   filteredBenefits={filteredBenefits}
                   searchString={searchString}
-                  savedList={true}
+                  savedList={false}
                   store={store}
                 />
 
@@ -158,7 +158,7 @@ export class BenefitsPane extends Component {
                     currentLanguage={t("current-language-code")}
                     filteredBenefits={nonFilteredBenefits}
                     searchString={searchString}
-                    savedList={true}
+                    savedList={false}
                     store={store}
                   />
                 )}

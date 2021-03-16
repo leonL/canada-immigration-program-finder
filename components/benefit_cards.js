@@ -126,15 +126,6 @@ export class BenefitCard extends Component {
                     : benefit.benefitNameFr
                 }
               />
-              {this.props.savedList === false ? (
-                <FavouriteButton
-                  benefit={benefit}
-                  toggleOpenState={() => {}}
-                  store={store}
-                  t={t}
-                  icon={true}
-                />
-              ) : null}
             </Header>
             <div css={padding}>
               {needsMet.length > 0 ? <Tag css={tagStyle} /> : null}
