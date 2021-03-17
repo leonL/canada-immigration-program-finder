@@ -22,7 +22,7 @@ const StyledSummary = styled("summary")({
   paddingLeft: 25,
   paddingRight: 25,
   color: globalTheme.colour.textColour,
-  "background-color": "#6fb3b9",
+  "background-color": "#26374a",
   cursor: "pointer",
   ":focus": {
     outline: `2px solid ${globalTheme.colour.focusColour}`
