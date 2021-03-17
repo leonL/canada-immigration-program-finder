@@ -9,7 +9,7 @@ import CardHeaderImportantInfo from "./card_header_important_info";
 import AlertIcon from "./icons/alert_icon";
 
 const cardTop = css`
-  background-color: ${globalTheme.colour.backgroundFillColour2};
+  background-color: #d9edf7;
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: ${globalTheme.cardPadding};
