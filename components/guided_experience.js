@@ -68,13 +68,24 @@ const body = css`
     font-size: 14px;
   }
 `;
-const rightMargin = css`
+const secondaryButton = css`
+  background-color: ${globalTheme.colour.buttonSecondaryCanadaCa};
   margin-right: 1.5em;
+  color: #335075;
+  :hover {
+    background-color: ${globalTheme.colour.buttonSecondaryHoverCanadaCa};
+    text-decoration: none !important;
+  }
   @media only screen and (max-width: ${globalTheme.max.xs}) {
     margin-left: 0;
     margin-bottom: 0.5em;
   }
 `;
+
+const skipButton = css`
+  color: #335075;
+`;
+
 export class GuidedExperience extends Component {
   getSubtitle = question => {
     if (this.props.t("current-language-code") === "en") {
@@ -245,7 +256,7 @@ export class GuidedExperience extends Component {
                     <HeaderLink
                       id="prevButton"
                       href={backUrl}
-                      css={css(mobileFullWidth, rightMargin)}
+                      css={css(mobileFullWidth, secondaryButton)}
                       hasBorder
                     >
                       {t("back")}
@@ -270,7 +281,7 @@ export class GuidedExperience extends Component {
                     <HeaderButton
                       id="skipButton"
                       altStyle="grey"
-                      styles={mobileFullWidth}
+                      styles={(mobileFullWidth, skipButton)}
                     >
                       {t("ge.skip")}
                     </HeaderButton>
