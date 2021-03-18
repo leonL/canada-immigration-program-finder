@@ -38,6 +38,9 @@ const StyledButton = styled("button")(
     ":visited": {
       color: "white"
     },
+    ":disabled": {
+      opacity: "0.5"
+    },
     " svg": {
       verticalAlign: "middle"
     }

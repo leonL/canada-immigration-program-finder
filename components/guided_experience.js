@@ -95,6 +95,11 @@ export class GuidedExperience extends Component {
     }
   };
 
+  isQuestionAnswered() {
+    const { reduxState, id } = this.props;
+    return reduxState[id] !== "";
+  }
+
   queryParamsToClearHiddenQuestions() {
     let queryObj = {};
     this.props.reduxState.questions
@@ -275,10 +280,12 @@ export class GuidedExperience extends Component {
                       {t("back")}
                     </HeaderLink>
                     <Link href={this.getNextUrl()}>
-                      <Button id="nextButton" mobileFullWidth={true}>
-                        {this.getNextUrl().indexOf("benefits-directory") > -1
-                          ? t("ge.show_results")
-                          : t("next")}
+                      <Button
+                        id="nextButton"
+                        mobileFullWidth={true}
+                        disabled={!this.isQuestionAnswered()}
+                      >
+                        {t("next")}
                       </Button>
                     </Link>
                   </Grid>
