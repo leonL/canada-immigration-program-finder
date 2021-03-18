@@ -84,6 +84,7 @@ const secondaryButton = css`
 
 const skipButton = css`
   color: #335075;
+  margin: 0px;
 `;
 
 export class GuidedExperience extends Component {
@@ -290,13 +291,7 @@ export class GuidedExperience extends Component {
                     </Link>
                   </Grid>
                 </Grid>
-                <Grid
-                  item
-                  xs={12}
-                  md={t("current-language-code") === "en" ? 4 : 12}
-                  lg={4}
-                  css={alignRight}
-                >
+                <Grid item xs={12} md={12} lg={4}>
                   <Link href={this.getShowResultsUrl()}>
                     <HeaderButton
                       id="showResults"
