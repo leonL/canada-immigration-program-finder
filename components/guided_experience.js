@@ -145,6 +145,19 @@ export class GuidedExperience extends Component {
     );
   }
 
+  getShowResultsUrl() {
+    const { reduxState, id, url } = this.props;
+    const nextSection = "benefitsDirectory";
+    let nextQueryParams = this.queryParamsToClearHiddenQuestions();
+    nextQueryParams[id] = JSON.parse(JSON.stringify(reduxState[id]));
+
+    return mutateUrl(
+      url,
+      "/" + airtableConstants.getPageName(nextSection),
+      nextQueryParams
+    );
+  }
+
   getSkipUrl() {
     const { reduxState, sectionOrder, id, url } = this.props;
 
@@ -277,6 +290,15 @@ export class GuidedExperience extends Component {
                   lg={4}
                   css={alignRight}
                 >
+                  <Link href={this.getShowResultsUrl()}>
+                    <HeaderButton
+                      id="showResults"
+                      altStyle="grey"
+                      styles={(mobileFullWidth, skipButton)}
+                    >
+                      {t("ge.show_results")}
+                    </HeaderButton>
+                  </Link>
                   <Link href={this.getSkipUrl()}>
                     <HeaderButton
                       id="skipButton"
