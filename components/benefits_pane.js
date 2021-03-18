@@ -80,7 +80,8 @@ export class BenefitsPane extends Component {
       nonFilteredBenefits,
       searchString,
       reduxState,
-      store
+      store,
+      setSearchString
     } = this.props; // eslint-disable-line no-unused-vars
     return (
       <Grid container spacing={2}>
