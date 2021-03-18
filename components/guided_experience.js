@@ -299,15 +299,6 @@ export class GuidedExperience extends Component {
                       {t("ge.show_results")}
                     </HeaderButton>
                   </Link>
-                  <Link href={this.getSkipUrl()}>
-                    <HeaderButton
-                      id="skipButton"
-                      altStyle="grey"
-                      styles={(mobileFullWidth, skipButton)}
-                    >
-                      {t("ge.skip")}
-                    </HeaderButton>
-                  </Link>
                 </Grid>
               </Grid>
             </Grid>
