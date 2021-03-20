@@ -40,9 +40,6 @@ const greyBox = css`
 const box = css`
   padding: 0px;
 `;
-const alignRight = css`
-  text-align: right;
-`;
 const mobileReverse = css`
   @media only screen and (max-width: ${globalTheme.max.xs}) {
     flex-direction: column-reverse;
