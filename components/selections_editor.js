@@ -102,7 +102,6 @@ export class SelectionsEditor extends Component {
               <Grid item xs={12}>
                 <ProfileSelector t={t} store={store} url={url} />
               </Grid>
-              <div css={divider} />
               <Grid item xs={12}>
                 <NeedsSelector t={t} store={store} url={url} />
               </Grid>
