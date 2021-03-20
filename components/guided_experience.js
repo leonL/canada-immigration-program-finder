@@ -82,6 +82,7 @@ const secondaryButton = css`
 const skipButton = css`
   color: #335075;
   margin: 0px;
+  padding-top: 8px;
 `;
 
 export class GuidedExperience extends Component {
@@ -201,6 +202,19 @@ export class GuidedExperience extends Component {
     );
   }
 
+  getDynamicStepNumber() {
+    const { reduxState, sectionOrder, id } = this.props;
+    var reduxStateCopy = JSON.parse(JSON.stringify(reduxState));
+    let displayable_sections = sectionOrder.filter((x, i) =>
+      showQuestion(x, i, reduxStateCopy)
+    );
+    return displayable_sections.indexOf(id);
+  }
+
+  isFirstQuestion() {
+    return this.getDynamicStepNumber() === 0;
+  }
+
   render() {
     const { t, url, id, reduxState, homeUrl } = this.props;
     const question = reduxState.questions.filter(
@@ -264,14 +278,16 @@ export class GuidedExperience extends Component {
               <Grid container spacing={2}>
                 <Grid item xs={12} md={12} lg={12}>
                   <Grid container spacing={1} css={mobileReverse}>
-                    <HeaderLink
-                      id="prevButton"
-                      href={backUrl}
-                      css={css(mobileFullWidth, secondaryButton)}
-                      hasBorder
-                    >
-                      {t("back")}
-                    </HeaderLink>
+                    {!this.isFirstQuestion() && (
+                      <HeaderLink
+                        id="prevButton"
+                        href={backUrl}
+                        css={css(mobileFullWidth, secondaryButton)}
+                        hasBorder
+                      >
+                        {t("back")}
+                      </HeaderLink>
+                    )}
                     <Link href={this.getNextUrl()}>
                       <Button
                         id="nextButton"
