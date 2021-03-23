@@ -36,10 +36,6 @@ const filterTitle = css`
   font-size: 18px;
   color: white;
 `;
-const divider = css`
-  border-top: 1px solid ${globalTheme.colour.backgroundFillColour2};
-  width: 100%;
-`;
 export class SelectionsEditor extends Component {
   countSelected = () => {
     let selectedProfileFilters = 0;
