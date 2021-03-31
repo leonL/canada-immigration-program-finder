@@ -218,7 +218,7 @@ export class FeedbackBar extends Component {
               </div>
             ) : !this.state.feedbackSubmitted ? (
               <div css={Inner}>
-                <Grid container spacing={1}>
+                <Grid container spacing={18}>
                   <Grid item md={5} xs={12}>
                     <Header
                       size="sm"

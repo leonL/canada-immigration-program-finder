@@ -84,7 +84,7 @@ export class BenefitsPane extends Component {
       setSearchString
     } = this.props; // eslint-disable-line no-unused-vars
     return (
-      <Grid container spacing={2}>
+      <Grid container spacing={16}>
         <Grid item xs={12}>
           <Header
             className={"BenefitsCounter"}
@@ -118,7 +118,7 @@ export class BenefitsPane extends Component {
               </div>
             </Grid>
             <Grid item xs={12}>
-              <Grid container spacing={3}>
+              <Grid container spacing={24}>
                 <ResultsHeader
                   benefitCount={filteredBenefits.length}
                   headerText={

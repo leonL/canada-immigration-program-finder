@@ -14,7 +14,7 @@ export class GuidedExperienceProfile extends Component {
     const { t, url } = this.props;
     return (
       <div css={outerDiv}>
-        <Grid container spacing={3}>
+        <Grid container spacing={24}>
           <RadioSelector
             id={"RadioSelector" + this.props.selectorType}
             t={t}

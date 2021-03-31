@@ -75,7 +75,7 @@ export class Summary extends Component {
           </div>
           <Paper padding="md" styles={box}>
             <AlphaBanner t={t} url={url} />
-            <Grid container spacing={3}>
+            <Grid container spacing={24}>
               <Grid item xs={12} css={questions}>
                 <Header size="md_lg" headingLevel="h2">
                   {t("ge.summary_subtitle")}

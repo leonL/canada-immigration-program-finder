@@ -243,7 +243,7 @@ export class GuidedExperience extends Component {
         </div>
         <Paper padding="md" styles={box}>
           <AlphaBanner t={t} url={url} />
-          <Grid container spacing={3} role="form">
+          <Grid container spacing={24} role="form">
             {id === -1 ? (
               <React.Fragment>
                 <Grid item xs={12}>
@@ -275,9 +275,9 @@ export class GuidedExperience extends Component {
               {this.props.children}
             </Grid>
             <Grid item xs={12}>
-              <Grid container spacing={2}>
+              <Grid container spacing={16}>
                 <Grid item xs={12} md={12} lg={12}>
-                  <Grid container spacing={1} css={mobileReverse}>
+                  <Grid container spacing={8} css={mobileReverse}>
                     {!this.isFirstQuestion() && (
                       <HeaderLink
                         id="prevButton"

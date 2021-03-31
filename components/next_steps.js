@@ -47,7 +47,7 @@ export class NextSteps extends Component {
     const bullets = this.getBullets();
     return (
       <div>
-        <Grid container spacing={3}>
+        <Grid container spacing={24}>
           <Grid item xs={12}>
             <ul id="nextStepsList" css={whatsNextList}>
               {bullets}

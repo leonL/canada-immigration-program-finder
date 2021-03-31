@@ -26,7 +26,10 @@ class MyDocument extends Document {
         registry={pageContext.sheetsRegistry}
         generateClassName={pageContext.generateClassName}
       >
-        <MuiThemeProvider theme={pageContext.theme}>
+        <MuiThemeProvider
+          theme={pageContext.theme}
+          sheetsManager={pageContext.sheetsManager}
+        >
           <Component pageContext={pageContext} {...props} />
         </MuiThemeProvider>
       </JssProvider>

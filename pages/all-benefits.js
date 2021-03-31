@@ -34,7 +34,7 @@ export class AllBenefits extends Component {
             {t("all-benefits.List of all benefits")}
           </Header>
           <Grid item xs={12}>
-            <Grid container spacing={3}>
+            <Grid container spacing={24}>
               <div css={list}>
                 <BenefitList
                   t={t}

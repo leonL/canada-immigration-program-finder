@@ -59,7 +59,7 @@ export class ProfileSelector extends Component {
 
     return (
       <div>
-        <Grid container spacing={1}>
+        <Grid container spacing={8}>
           {jsx_array}
         </Grid>
       </div>

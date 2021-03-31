@@ -67,7 +67,7 @@ export class StickyHeader extends Component {
 
     return (
       <Grid item xs={12} css={sticky}>
-        <Grid container spacing={1}>
+        <Grid container spacing={8}>
           <Grid item xs={6}>
             <ShareBox
               t={t}

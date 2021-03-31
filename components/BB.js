@@ -82,7 +82,7 @@ export class BB extends Component {
               {t("ge.Find benefits and services")}
             </Header>
           </Grid>
-          <Grid container spacing={4}>
+          <Grid container spacing={32}>
             <Grid item md={4} xs={12}>
               <SelectionsEditor t={t} store={store} url={url} />
             </Grid>
@@ -133,4 +133,4 @@ BB.propTypes = {
   store: PropTypes.object
 };
 
-export default withTheme(connect(mapStateToProps, mapDispatchToProps)(BB));
+export default withTheme()(connect(mapStateToProps, mapDispatchToProps)(BB));

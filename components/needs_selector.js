@@ -48,7 +48,7 @@ export class NeedsSelector extends Component {
           <Header size="sm" styles={formLabel}>
             {t("filter by category")}
           </Header>
-          <Grid container spacing={2}>
+          <Grid container spacing={16}>
             <Grid item xs={9}>
               <div css={subFormLabel}>{t("Select all that apply")}</div>
             </Grid>

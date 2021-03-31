@@ -34,7 +34,7 @@ export class GuidedExperienceNeeds extends Component {
     const { t, store, url } = this.props; // eslint-disable-line no-unused-vars
     return (
       <div css={root}>
-        <Grid container spacing={3}>
+        <Grid container spacing={24}>
           <ul css={needsList}>
             {this.props.needs.map(need => (
               <li key={need.id} css={needCss}>

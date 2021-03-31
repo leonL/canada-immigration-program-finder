@@ -97,7 +97,7 @@ export class Favourites extends Component {
           />
           <Paper padding="md" styles={innerDiv}>
             <AlphaBanner t={t} url={url} />
-            <Grid container spacing={4}>
+            <Grid container spacing={32}>
               <Grid item xs={12}>
                 <Header css={"BenefitsCounter"} size="xl" headingLevel="h1">
                   {t("titles.saved_list")}
@@ -125,7 +125,7 @@ export class Favourites extends Component {
                 </div>
               </Grid>
               <Grid id="mainContent" item md={8} xs={12}>
-                <Grid container spacing={3}>
+                <Grid container spacing={24}>
                   {this.state.showDisabledCookieBanner ? (
                     <Grid item xs={12}>
                       <DisabledCookiesBanner

@@ -175,7 +175,7 @@ export class Print extends Component {
 
     return (
       <div css={root}>
-        <Grid container spacing={3}>
+        <Grid container spacing={24}>
           <Grid item xs={12}>
             <div css={svgContainer}>
               <FIP
@@ -248,7 +248,7 @@ export class Print extends Component {
             })}
           </tbody>
         </table>
-        <Grid container spacing={3} css={gridstyle}>
+        <Grid container spacing={24} css={gridstyle}>
           <Grid item xs={12}>
             <hr css={hr} />
           </Grid>
