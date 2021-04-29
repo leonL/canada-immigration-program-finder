@@ -1,12 +1,21 @@
-import { Component } from "react";
 /** @jsx jsx */
+import { Component } from "react";
 import { jsx } from "@emotion/core";
 
 class CanadaCaSearch extends Component {
   render() {
+    const canadaCaSearchURL = "https://recherche-search.gc.ca/rGs/s_r#wb-land",
+      canadaCaSearchParams = {
+        st: "s",
+        num: "10",
+        langs: "en",
+        st1rt: "0",
+        s5bm3ts21rch: "x"
+      };
+
     return (
       <form
-        action="https://recherche-search.gc.ca/rGs/s_r?#wb-land"
+        action={canadaCaSearchURL}
         method="get"
         role="search"
         className="form-inline"
@@ -22,11 +31,14 @@ class CanadaCaSearch extends Component {
             maxLength="150"
             placeholder="Search Canada.ca"
           />
-          <input name="st" value="s" type="hidden" />
-          <input name="num" value="10" type="hidden" />
-          <input name="langs" value="eng" type="hidden" />
-          <input name="st1rt" value="0" type="hidden" />
-          <input name="s5bm3ts21rch" value="x" type="hidden" />
+          {Object.keys(canadaCaSearchParams).map((key, i) => (
+            <input
+              key={i}
+              name={key}
+              value={canadaCaSearchParams[key]}
+              type="hidden"
+            />
+          ))}
           <datalist id="wb-srch-q-ac"></datalist>
         </div>
         <div className="form-group submit">
