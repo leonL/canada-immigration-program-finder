@@ -3,6 +3,7 @@ import { Component } from "react";
 import { css, jsx } from "@emotion/core";
 import PropTypes from "prop-types";
 import LanguageButton from "./language_button";
+import CanadaCaSearch from "./canada_ca_search";
 import { globalTheme } from "../theme";
 import SkipToMainContent from "./skip_to_main_content";
 import Container from "./container";
@@ -85,6 +86,7 @@ class FederalBanner extends Component {
           <div css={container}>
             <div className="svg-container">
               <FIP t={t} />
+              <CanadaCaSearch />
             </div>
           </div>
         </Container>
