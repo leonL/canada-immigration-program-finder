@@ -3,6 +3,7 @@ import { jsx } from "@emotion/core";
 import { Component } from "react";
 import withI18N from "../lib/i18nHOC";
 import PropTypes from "prop-types";
+import SearchIcon from "./icons/Search";
 class CanadaCaSearch extends Component {
   render() {
     const { t } = this.props;
@@ -23,34 +24,24 @@ class CanadaCaSearch extends Component {
         role="search"
         aria-label="all canada.ca"
       >
-        <div>
+        {Object.keys(canadaCaSearchParams).map((key, i) => (
           <input
-            name="q"
-            type="search"
-            size="27"
-            maxLength="150"
-            placeholder={t("banner.canada-ca-search-placeholder")}
+            key={i}
+            name={key}
+            value={canadaCaSearchParams[key]}
+            type="hidden"
           />
-          {Object.keys(canadaCaSearchParams).map((key, i) => (
-            <input
-              key={i}
-              name={key}
-              value={canadaCaSearchParams[key]}
-              type="hidden"
-            />
-          ))}
-        </div>
-        <div className="form-group submit">
-          <button
-            type="submit"
-            id="wb-srch-sub"
-            className="btn btn-primary btn-small"
-            name="wb-srch-sub"
-          >
-            <span className="glyphicon-search glyphicon"></span>
-            <span className="wb-inv">Search</span>
-          </button>
-        </div>
+        ))}
+        <input
+          name="q"
+          type="search"
+          size="27"
+          maxLength="150"
+          placeholder={t("banner.canada-ca-search-placeholder")}
+        />
+        <button type="submit">
+          <SearchIcon />
+        </button>
       </form>
     );
   }
