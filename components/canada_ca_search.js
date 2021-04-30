@@ -3,6 +3,7 @@ import { jsx } from "@emotion/core";
 import { Component } from "react";
 import withI18N from "../lib/i18nHOC";
 import PropTypes from "prop-types";
+import IconButton from "@material-ui/core/IconButton";
 import SearchIcon from "./icons/Search";
 class CanadaCaSearch extends Component {
   render() {
@@ -39,9 +40,9 @@ class CanadaCaSearch extends Component {
           maxLength="150"
           placeholder={t("banner.canada-ca-search-placeholder")}
         />
-        <button type="submit">
+        <IconButton type="submit" aria-label="search">
           <SearchIcon />
-        </button>
+        </IconButton>
       </form>
     );
   }
