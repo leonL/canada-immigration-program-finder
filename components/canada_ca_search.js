@@ -1,9 +1,8 @@
 /** @jsx jsx */
-import { jsx } from "@emotion/core";
+import { jsx, css } from "@emotion/core";
 import { Component } from "react";
 import withI18N from "../lib/i18nHOC";
 import PropTypes from "prop-types";
-import IconButton from "@material-ui/core/IconButton";
 import SearchIcon from "./icons/Search";
 class CanadaCaSearch extends Component {
   render() {
@@ -33,16 +32,19 @@ class CanadaCaSearch extends Component {
             type="hidden"
           />
         ))}
-        <input
-          name="q"
-          type="search"
-          size="27"
-          maxLength="150"
-          placeholder={t("banner.canada-ca-search-placeholder")}
-        />
-        <IconButton type="submit" aria-label="search">
-          <SearchIcon />
-        </IconButton>
+        <div>
+          <input
+            name="q"
+            type="search"
+            size="27"
+            maxLength="150"
+            css={searchInputCss}
+            placeholder={t("banner.canada-ca-search-placeholder")}
+          />
+          <button type="submit" aria-label="search" css={searchButtonCss}>
+            <SearchIcon css={serachIconCss} />
+          </button>
+        </div>
       </form>
     );
   }
@@ -53,3 +55,32 @@ CanadaCaSearch.propTypes = {
 };
 
 export default withI18N(CanadaCaSearch);
+
+const searchInputCss = css`
+  padding: 6px 12px;
+  min-height: 37px;
+  font-size: 16px;
+  line-height: 23px;
+  color: #5c5c5c;
+  border: 1px solid #e0e0e0;
+  font-family: "Noto Sans", sans-serif;
+  vertical-align: top;
+  outline: none;
+`;
+
+const searchButtonCss = css`
+  color: white;
+  background-color: #26374a;
+  min-height: 36px;
+  min-width: auto;
+  display: inline-block;
+  border: none;
+  padding: 3px 8px;
+  :hover {
+    cursor: pointer;
+  }
+`;
+
+const serachIconCss = css`
+  margin-top: 4px;
+`;
