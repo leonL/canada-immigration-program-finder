@@ -1,14 +1,17 @@
 /** @jsx jsx */
-import { Component } from "react";
 import { jsx } from "@emotion/core";
-
+import { Component } from "react";
+import withI18N from "../lib/i18nHOC";
+import PropTypes from "prop-types";
 class CanadaCaSearch extends Component {
   render() {
+    const { t } = this.props;
+
     const canadaCaSearchURL = "https://recherche-search.gc.ca/rGs/s_r#wb-land",
       canadaCaSearchParams = {
         st: "s",
         num: "10",
-        langs: "en",
+        langs: t("current-language-code"),
         st1rt: "0",
         s5bm3ts21rch: "x"
       };
@@ -29,7 +32,7 @@ class CanadaCaSearch extends Component {
             type="search"
             size="27"
             maxLength="150"
-            placeholder="Search Canada.ca"
+            placeholder={t("banner.canada-ca-search-placeholder")}
           />
           {Object.keys(canadaCaSearchParams).map((key, i) => (
             <input
@@ -57,4 +60,8 @@ class CanadaCaSearch extends Component {
   }
 }
 
-export default CanadaCaSearch;
+CanadaCaSearch.propTypes = {
+  t: PropTypes.func.isRequired
+};
+
+export default withI18N(CanadaCaSearch);

@@ -1,1968 +1,2465 @@
 {
   "benefits": [
     {
-      "benefitNameEn": "Active seniors benefit",
-      "benefitNameFr": "(fra) Active seniors benefit",
-      "benefitPageEn": "https://www.google.com/",
-      "benefitPageFr": "https://www.google.com/",
-      "needs": ["recWFZGPEbgMtNbbz"],
-      "oneLineDescriptionEn": "Monthly payments for seniors to stay active and healthy.",
-      "oneLineDescriptionFr": "(fra) A great benefit.",
-      "childBenefits": ["recv5CmS6utSJYHiM"],
+      "benefitEligibility": ["recdOplIPZVvwxx2O"],
       "sortingPriority": "high",
-      "benefitEligibility": ["recxsWSIH846g2TVp"],
-      "seeMoreSentenceEn": "Some examples of what this program may provide:",
-      "seeMoreSentenceFr": "Quelques exemples de ce que ce programme peut fournir :",
-      "id": "reclO0wMapgJNMlAs"
+      "oneLineDescriptionFr": "Un visa de visiteur (aussi appelé visa de résident temporaire) est un document officiel que nous apposons dans votre passeport. Il indique que vous remplissez les exigences nécessaires pour entrer au Canada.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/au-sujet-visa-visiteur.html",
+      "noteEn": "Most travellers need a visitor visa to travel to Canada. You may also need one if you’re transiting through a Canadian airport on your way to your final destination.",
+      "seeMoreSentenceEn": "Who can apply?",
+      "oneLineDescriptionEn": "A visitor visa (also called a temporary resident visa) is an official document that we stick in your passport. It shows that you meet the requirements needed to enter Canada",
+      "benefitNameFr": "Visa de résident temporaire",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html",
+      "benefitNameEn": "Temporary Resident Visa",
+      "noteFr": "La plupart des visiteurs ont besoin d’un visa de visiteur pour venir au Canada. Vous pourriez également devoir en détenir un si vous transitez par un aéroport canadien en chemin vers votre destination finale.",
+      "id": "recqQJOQKGtvNjBzQ"
     },
     {
-      "benefitNameEn": "File taxes benefit",
-      "benefitNameFr": "(fra) File taxes benefit",
-      "benefitPageEn": "https://www.google.com/",
-      "benefitPageFr": "https://www.google.com/",
-      "needs": ["recWJA8VGxtunsYBY"],
-      "oneLineDescriptionEn": "Access to accountants for help with filing taxes.",
-      "oneLineDescriptionFr": "(fra) An even better benefit.",
-      "childBenefits": ["recCmW24kf7C1Wzg4"],
+      "benefitEligibility": ["rec1y5QPIIjvwb3DW"],
       "sortingPriority": "high",
-      "benefitEligibility": ["reck1SbhOSzV7WcG2", "rec8jD6F55jpzdfuB"],
-      "seeMoreSentenceEn": "Some examples of what this program may provide:",
-      "seeMoreSentenceFr": "Quelques exemples de ce que ce programme peut fournir :",
-      "id": "recoFRhS14rE9jt0v"
+      "oneLineDescriptionFr": "Un visa de transit est un document officiel que nous plaçons dans votre passeport. Ce document montre que vous remplissez les exigences pour transiter par un aéroport canadien durant un maximum de 48 heures.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/transiter/au-sujet-visa-transit.html",
+      "noteEn": "You must use your transit visa before it expires.",
+      "seeMoreSentenceEn": "Who needs a Transit Visa?",
+      "oneLineDescriptionEn": "A transit visa is an official document that we put in your passport. It shows that you meet the requirements to transit for up to 48 hours through a Canadian airport.",
+      "benefitNameFr": "Visa de transit ",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/about-transit-visa.html",
+      "benefitNameEn": "Transit Visa",
+      "noteFr": "Vous devez utiliser votre visa de transit avant son expiration.",
+      "id": "rectHAzWBlEq9QJZT"
     },
     {
-      "benefitNameEn": "Financial advice",
-      "benefitNameFr": "(fra) Financial advice",
-      "benefitPageEn": "https://www.google.com/",
-      "benefitPageFr": "https://www.google.com/",
-      "needs": ["recWJA8VGxtunsYBY"],
-      "oneLineDescriptionEn": "Access to financial experts on how to manage expenses.",
-      "oneLineDescriptionFr": "(fra) A pretty mediocre benefit.",
+      "benefitEligibility": ["recsl33gxxAtyyqis"],
       "sortingPriority": "medium",
-      "benefitExamples": ["recymFq6OgUeYzQTX", "recY4jfkkBNtvxjRZ"],
-      "benefitEligibility": ["recHVn8taUusAcSqx", "recLY37Jtdy66Pyze"],
-      "seeMoreSentenceEn": "Some examples of what this program may provide:",
-      "seeMoreSentenceFr": "Quelques exemples de ce que ce programme peut fournir :",
-      "id": "recCmW24kf7C1Wzg4",
-      "childBenefits": []
+      "oneLineDescriptionFr": "L’autorisation de voyage électronique (AVE) est une exigence d’entrée visant les étrangers dispensés de l’obligation de visa qui se rendent au Canada par voie aérienne.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/ave.html",
+      "noteEn": "An eTA doesn’t guarantee entry to Canada. When you arrive, a border services officer will ask to see your passport and other documents.",
+      "seeMoreSentenceEn": "Who needs an eTA to travel to Canada?",
+      "oneLineDescriptionEn": "An Electronic Travel Authorization (eTA) is an entry requirement for visa-exempt foreign nationals travelling to Canada by air.",
+      "benefitNameFr": "AVE (autorisation de voyage électronique)",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+      "benefitNameEn": "eTA (Electronic Travel Authorization)",
+      "noteFr": "Une AVE ne garantit pas l’entrée au Canada. À votre arrivée, un agent des services frontaliers vous demandera votre passeport et d’autres documents.",
+      "id": "recHoFk8Uwko1tPfs"
     },
     {
-      "benefitNameEn": "Home accessibility benefit",
-      "benefitNameFr": "(fra) Home accessibility benefit",
-      "benefitPageEn": "https://www.google.com/",
-      "benefitPageFr": "https://www.google.com/",
-      "needs": ["recrFaqBTcCoYsRCt"],
-      "oneLineDescriptionEn": "A one-time payment to improve quality of life in your home.",
-      "oneLineDescriptionFr": "(fra) Home accessibility",
+      "benefitEligibility": ["recCBiSpfQHz0r94s"],
       "sortingPriority": "high",
-      "benefitExamples": [
-        "recvE7fpIHfXRxze2",
-        "rec3zUmFfPHB8MHxV",
-        "recZugY3g0bM4lWNq",
-        "recEtdb75wrZa80j8",
-        "recurvhqGBWi6a1rJ"
-      ],
-      "benefitEligibility": ["rec8C6xPv5ORcL7az"],
-      "seeMoreSentenceEn": "Some examples of what this program may provide:",
-      "seeMoreSentenceFr": "Quelques exemples de ce que ce programme peut fournir :",
-      "id": "rec3w95vV4Bj7i8kr",
-      "childBenefits": []
+      "oneLineDescriptionFr": "Expérience internationale Canada (EIC) est un programme conçu pour permettre aux voyageurs âgés de 18 à 35 ans provenant d'environ 33 pays déterminés de travailler au Canada. ",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/eic.html",
+      "seeMoreSentenceEn": "Who can apply?",
+      "oneLineDescriptionEn": "International Experience Canada (IEC) is a program designed to give 18-35 year-old travellers from around 33 selected countries the opportunity to work in Canada. ",
+      "benefitNameFr": "Expérience internationale Canada (EIC)",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html",
+      "benefitNameEn": "International Experience Canada ",
+      "id": "rec8ySnzvlO57PojP",
+      "noteEn": "",
+      "noteFr": ""
     },
     {
-      "benefitNameEn": "Fitness services",
-      "benefitNameFr": "(fra) Fitness services",
-      "benefitPageEn": "https://www.google.com/",
-      "benefitPageFr": "https://www.google.com/",
-      "needs": ["recWFZGPEbgMtNbbz"],
-      "oneLineDescriptionEn": "Access to exercise classes organized in your local community.",
-      "oneLineDescriptionFr": "(fra) Fitness services",
+      "benefitEligibility": ["recG8tL1T2AbOG8Ih"],
+      "oneLineDescriptionFr": "Les personnes qui se trouvent légalement au Canada peuvent généralement y étudier pour une durée inférieure à six mois sans permis.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/bulletins-guides-operationnels/residents-temporaires/permis-etudes/doit-obtenir-permis-etudes.html",
+      "seeMoreSentenceEn": "Who can study without a study permit?",
+      "oneLineDescriptionEn": "People legally in Canada can usually study here for fewer than 6 months without a permit.",
+      "benefitNameFr": "Étudier sans permis",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html",
+      "benefitNameEn": "Study without a permit",
+      "id": "recyM6PMt9y1KuKE2",
+      "sortingPriority": "",
+      "noteEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["recKVwFF1Eulro6Tk"],
+      "oneLineDescriptionFr": "Pour étudier au Canada pendant plus de six mois, dans la plupart des cas, vous aurez besoin d'un permis d'études.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/etudier-canada.html",
+      "seeMoreSentenceEn": "Who needs a Study Permit?",
+      "oneLineDescriptionEn": "To study in Canada for more than 6 months, in most cases you’ll need a study permit.",
+      "benefitNameFr": "Permis d'études",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html",
+      "benefitNameEn": "Study Permit ",
+      "id": "rect2Uixss1q783lL",
+      "sortingPriority": "",
+      "noteEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["recXQnqCmNd1JiNtJ"],
       "sortingPriority": "low",
-      "benefitExamples": [
-        "recJnhhGHZxST74bv",
-        "recjEqWCW3tGi5ot9",
-        "recMQ0teAthpK2RIQ"
-      ],
-      "benefitEligibility": ["recQK4IWzP2h81GGZ"],
-      "seeMoreSentenceEn": "Some examples of what this program may provide:",
-      "seeMoreSentenceFr": "Quelques exemples de ce que ce programme peut fournir :",
-      "id": "recv5CmS6utSJYHiM",
-      "childBenefits": []
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/etudier-canada/prolongation-permis-etudes.html",
+      "oneLineDescriptionEn": "The expiry date on your study permit tells you when you have to stop studying and leave Canada. If you want to keep studying, you need to extend your study permit.",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/extend-study-permit.html",
+      "benefitNameEn": "Study Permit Extension",
+      "id": "recBj2acAJALOuc2D",
+      "oneLineDescriptionFr": "",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "benefitNameFr": "",
+      "noteFr": ""
     },
     {
-      "benefitNameEn": "Find a doctor abroad",
-      "benefitNameFr": "(fra) Find a doctor abroad",
-      "benefitPageEn": "https://www.google.com/",
-      "benefitPageFr": "https://www.google.com/",
-      "needs": ["recWFZGPEbgMtNbbz"],
-      "oneLineDescriptionEn": "Get help finding a doctor when you are not in Canada.",
-      "oneLineDescriptionFr": "(fra) Get help finding a doctor away from home",
+      "benefitEligibility": ["recq5IDoQhhirapKY", "rectWDlgCIyiRK1hQ"],
+      "sortingPriority": "low",
+      "oneLineDescriptionFr": "Les aides familiaux fournissent des soins aux Canadiens et bénéficient d'un processus de demande spécial qui en facilite le traitement.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/aides-familiaux.html",
+      "noteEn": "As a caregiver, you have options to come to Canada to become a permanent resident or work temporarily.",
+      "seeMoreSentenceEn": "Who can apply ?",
+      "oneLineDescriptionEn": "Caregivers provide care to Canadians and are accorded a special application process for easier processing.",
+      "benefitNameFr": "Programme pilote des aides familiaux",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/caregivers.html",
+      "benefitNameEn": "Caregiver Pilot",
+      "noteFr": "En tant qu’aide familial, vous disposez de différentes options pour venir au Canada afin de devenir résident permanent ou de travailler de façon temporaire.",
+      "id": "recA7lEWGLGEJvXha"
+    },
+    {
+      "benefitEligibility": ["recOQdsk1Ns5j2EdW"],
+      "oneLineDescriptionFr": "Un permis de travail est exigé pour travailler et gagner un revenu au Canada. Les permis de travail peuvent être ouverts ou fermés (propres à un employeur).",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis.html",
+      "seeMoreSentenceEn": "Who can apply?",
+      "oneLineDescriptionEn": "A work permit is required for you to work and earn income in Canada. Work permits may be open or closed (specific to an employer)",
+      "benefitNameFr": "Permis de travail",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit.html",
+      "benefitNameEn": "Work Permit",
+      "id": "recmTJU7fRW0E0Pab",
+      "sortingPriority": "",
+      "noteEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["rechtJMwA5DA8VpXk"],
+      "oneLineDescriptionFr": "Un permis de travail est exigé pour travailler et gagner un revenu au Canada. La province du Québec gère son propre processus de demande de permis de travail.",
+      "benefitPageFr": "https://www.immigration-quebec.gouv.qc.ca/fr/immigrer-installer/travailleurs-temporaires/index.html",
+      "oneLineDescriptionEn": "A work permit is required for you to work and earn income in Canada. The province of Québec handles it's own work permit application process",
+      "benefitNameFr": "Permis de travail - Québec",
+      "benefitPageEn": "https://www.immigration-quebec.gouv.qc.ca/en/immigrate-settle/temporary-workers/index.html",
+      "benefitNameEn": "Work Permit - Québec",
+      "id": "recSHg09pAj61R2va",
+      "sortingPriority": "",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["recSUCUkSXKB8NJiH"],
+      "oneLineDescriptionFr": "Un permis de travail peut être prolongé, soit pour un nouveau permis, soit pour un permis transitoire en attendant la décision relative à une demande de résidence permanente.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/permis/temporaire/prolongez-modifiez.html",
+      "noteEn": "You can’t extend your work permit beyond the expiry date of your passport.",
+      "oneLineDescriptionEn": "A work permit may be extended, either for a new permit or for a bridging permit while waiting for the determination of a permanent residency application",
+      "benefitNameFr": "Prolongation de permis de travail",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/extend.html",
+      "benefitNameEn": "Work Permit Extension",
+      "noteFr": "Vous ne pouvez pas prolonger votre permis de travail au-delà de la date d'expiration de votre passeport.",
+      "id": "recjE11n0ZoHc2CeA",
+      "sortingPriority": "",
+      "seeMoreSentenceEn": ""
+    },
+    {
+      "benefitEligibility": ["reczpBe9CJMScEPuk"],
       "sortingPriority": "high",
-      "benefitEligibility": ["recCjHvbVgGaOUku1"],
-      "seeMoreSentenceEn": "Some examples of what this program may provide:",
-      "seeMoreSentenceFr": "Quelques exemples de ce que ce programme peut fournir :",
-      "id": "rec03713ExoD8JVNc",
-      "childBenefits": []
+      "oneLineDescriptionFr": "Le processus de demande pour les immigrants qualifiés qui souhaitent s’établir de façon permanente au Canada et participer à notre économie.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/entree-express.html",
+      "oneLineDescriptionEn": "Express Entry is a group of programs for skilled immigrants who want to settle in Canada permanently and take part in our economy.",
+      "benefitNameFr": "Entrée express",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html",
+      "benefitNameEn": "Express Entry",
+      "id": "rec55Qj7eOBp8gbMA",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "noteFr": ""
     },
     {
-      "benefitNameEn": "Retirement funding",
-      "benefitNameFr": "(fra) Retirement funding",
-      "benefitPageEn": "https://www.google.com/",
-      "benefitPageFr": "https://www.google.com/",
-      "oneLineDescriptionEn": "Funding for organizations to provide services to retirees.",
-      "oneLineDescriptionFr": "(fra) Funding for organizations to provide services to retirees.",
-      "benefitEligibility": ["recrZrtp2eGh52oPL"],
-      "seeMoreSentenceEn": "Some examples of what this program may provide:",
-      "seeMoreSentenceFr": "Quelques exemples de ce que ce programme peut fournir :",
-      "id": "recSpT6fzYT8COV67",
-      "needs": [],
-      "childBenefits": [],
-      "sortingPriority": ""
+      "benefitEligibility": ["recaA2TdFWwSAPxyh", "recFWXb20g47JGTQR"],
+      "sortingPriority": "medium",
+      "oneLineDescriptionFr": "Grâce à ce programme, votre époux, conjoint de fait ou partenaire conjugal peut immigrer au Canada.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/bulletins-guides-operationnels/resdience-permanente/categories-immigration-non-economique/categorie-familial-processus.html",
+      "oneLineDescriptionEn": "With this programme your spouse, common law or conjugal partner can immigrate to Canada",
+      "benefitNameFr": "Catégorie du regroupement familial",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/non-economic-classes/family-class-process.html",
+      "benefitNameEn": "Family Class",
+      "id": "recXrCoj9f6UClb5v",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": [
+        "recWfle2QEssusSQR",
+        "recpQhUoeOWscyNGd",
+        "recKNd0335beLJeLO"
+      ],
+      "oneLineDescriptionFr": "Visa de visiteur valide pour une période prolongée pour les parents et grands-parents de citoyens canadiens et de résidents permanents",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/super-visa-parents-grands-parents/au-sujet.html",
+      "seeMoreSentenceEn": "Who can apply?",
+      "oneLineDescriptionEn": "Extended visitor visa for parents and grandparents of Canadian citizens and permanent residents",
+      "benefitNameFr": "Super visa",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/about.html",
+      "benefitNameEn": "Super Visa",
+      "id": "rec0hDCRatVKCcn9p",
+      "sortingPriority": "",
+      "noteEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": [
+        "rec2QmehyVRVrSWxw",
+        "recLk7oDm6X7vsmgy",
+        "rec4WAkRMfxbitCPb"
+      ],
+      "oneLineDescriptionFr": "Chaque année, le Canada attribue le statut de résident permanent à des parents et grands-parents de citoyens canadiens et de résidents permanents. Vous pouvez parrainer vos propres parents et grands-parents.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/parrainer-membre-famille/parrainer-parents-grands-parents.html",
+      "seeMoreSentenceEn": "Who can sponsor?",
+      "oneLineDescriptionEn": "Every year, Canada grants permanent residency status to parents and grandparents of Canadian citizens and permanent residents. You can sponsor your own parents and grandparents.",
+      "benefitNameFr": "Le Programme des parents et des grands-parents (PGP)",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/sponsor-parents-grandparents.html",
+      "benefitNameEn": "Parents & Grand Parents (PGP)",
+      "id": "reccWYt8OEDP6XbOJ",
+      "sortingPriority": "",
+      "noteEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["recVdrLkPLmrXF63F"],
+      "sortingPriority": "low",
+      "oneLineDescriptionFr": "Le projet pilote aide les employeurs du Canada atlantique à recruter des travailleurs qualifiés étrangers qui souhaitent immigrer au Canada atlantique et des diplômés étrangers qui souhaitent demeurer au Canada atlantique après l'obtention de leur diplôme. ",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/programme-pilote-immigration-atlantique.html",
+      "oneLineDescriptionEn": "The pilot helps employers in Atlantic Canada hire foreign skilled workers who want to immigrate to Atlantic Canada and international graduates who want to stay in Atlantic Canada after they graduate. ",
+      "benefitNameFr": "Programme pilote d’immigration au Canada atlantique",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration-pilot.html",
+      "benefitNameEn": "Atlantic Immigration Pilot",
+      "id": "rec4wKqbxcU8DSNmD",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["recFZLig7dIqorVvi"],
+      "sortingPriority": "low",
+      "oneLineDescriptionFr": "Ce programme est conçu pour étendre les avantages de l'immigration économique aux petites communautés en créant une voie d’accès à la résidence permanente pour les travailleurs étrangers qualifiés qui souhaitent travailler et vivre dans l'une des communautés participantes.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/programme-pilote-immigration-rurale-nord.html",
+      "oneLineDescriptionEn": "This program is designed to spread the benefits of economic immigration to smaller communities by creating a path to permanent residence for skilled foreign workers who want to work and live in one of the participating communities.",
+      "benefitNameFr": "Programme pilote d’immigration dans les communautés rurales et du Nord",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-northern-immigration-pilot.html",
+      "benefitNameEn": "Rural and Northern Immigration Pilot",
+      "id": "receGIVh8y0Uk0c9u",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["recTE4VqIyFjwHhNl"],
+      "sortingPriority": "low",
+      "oneLineDescriptionFr": "Les provinces et territoires peuvent désigner des personnes et des familles qui souhaitent s'établir sur leur territoire, en fonction de critères établis.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/candidats-provinces.html",
+      "oneLineDescriptionEn": "Provinces and territories can nominate individuals and families who wish to settle in their province or territory based on set criteria.",
+      "benefitNameFr": "Programme des candidats des provinces",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html",
+      "benefitNameEn": "Provincial Nominee Program",
+      "id": "rectw2Hw5sPjEywVg",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["reczZVB2C0Va650iO"],
+      "sortingPriority": "low",
+      "oneLineDescriptionFr": "Ce programme permet d'immigrer au Canada de façon permanente à titre de travailleur autonome.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/travailleurs-autonomes.html",
+      "oneLineDescriptionEn": "This program allows people to immigrate to Canada permanently as a self-employed person.",
+      "benefitNameFr": "Programme d’immigration des travailleurs autonomes",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/self-employed.html",
+      "benefitNameEn": "Self-employed program",
+      "id": "recZEPTV4UzUbZ6TL",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["recBBPCirDTOJke7z"],
+      "sortingPriority": "low",
+      "oneLineDescriptionFr": "Le programme pilote offre une voie d'accès à la résidence permanente pour les travailleurs non saisonniers expérimentés dans des industries et des professions précises.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/programme-pilote-sur-lagroalimentaire.html",
+      "oneLineDescriptionEn": "The pilot provides a pathway to permanent residence for experienced, non-seasonal workers in specific industries and occupations.",
+      "benefitNameFr": "Programme pilote sur l’agroalimentaire",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/agri-food-pilot.html",
+      "benefitNameEn": "Agri-food Pilot",
+      "id": "rec65iKtJiOAJPWHj",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "noteFr": ""
+    },
+    {
+      "benefitEligibility": ["recSyj92iulu8fukI"],
+      "sortingPriority": "low",
+      "oneLineDescriptionFr": "Le Canada cherche à attirer davantage d'immigrants francophones hors Québec. Cela permettra de contribuer au dynamisme, au développement et à la prospérité des communautés francophones en situation minoritaire au Canada.",
+      "benefitPageFr": "https://www.canada.ca/fr/immigration-refugies-citoyennete/campagnes/immigration-francophone-hors-quebec.html",
+      "oneLineDescriptionEn": "Canada is seeking to attract more French-speaking immigrants outside Quebec. This will help contribute to the vitality, development and prosperity of Francophone minority communities in Canada.",
+      "benefitNameFr": "Immigration francophone (hors Québec)",
+      "benefitPageEn": "https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/francophone-immigration-outside-quebec.html",
+      "benefitNameEn": "Francophone Immigration",
+      "id": "rectGKbSfcyGYACLU",
+      "noteEn": "",
+      "seeMoreSentenceEn": "",
+      "noteFr": ""
     }
   ],
   "benefitEligibility": [
     {
-      "benefit": ["reclO0wMapgJNMlAs"],
-      "patronType": ["recMBfIiDsvy7DtqP", "recUEwhpkEmPKlY24"],
-      "patronLocation": ["recyQBe7DxlBDhxm4"],
-      "Name": "recxsWSIH846g2TVp",
-      "patronAge": []
+      "patronType": ["recRDY0mdJIk7aJpd"],
+      "visitResidentUS": ["recReD188mG3lo8Ck", "recClE1nCMgnYqvbc"],
+      "visitWantWork": ["recim5n1erZOrWqix", "recLQTdgoiD7x018j"],
+      "visitLess48Hr": ["recV2ZeTQjDEaumSk", "recP7ILyZXkUKVMwE"],
+      "benefit": ["recHoFk8Uwko1tPfs"],
+      "Name": "recsl33gxxAtyyqis"
     },
     {
-      "benefit": ["recoFRhS14rE9jt0v"],
-      "patronType": ["recMBfIiDsvy7DtqP"],
-      "patronLocation": ["recyQBe7DxlBDhxm4"],
-      "Name": "reck1SbhOSzV7WcG2",
-      "patronAge": []
+      "patronType": ["recRDY0mdJIk7aJpd"],
+      "visitResidentUS": ["recClE1nCMgnYqvbc"],
+      "visitWantWork": ["recim5n1erZOrWqix", "recLQTdgoiD7x018j"],
+      "visitLess48Hr": ["recP7ILyZXkUKVMwE"],
+      "benefit": ["recqQJOQKGtvNjBzQ"],
+      "Name": "recdOplIPZVvwxx2O"
     },
     {
-      "benefit": ["recoFRhS14rE9jt0v"],
-      "patronType": ["recUEwhpkEmPKlY24"],
-      "patronLocation": ["recyQBe7DxlBDhxm4"],
-      "patronAge": ["recWQlTdT9kWHFPM1"],
-      "Name": "rec8jD6F55jpzdfuB"
+      "patronType": ["recRDY0mdJIk7aJpd"],
+      "visitResidentUS": ["recReD188mG3lo8Ck", "recClE1nCMgnYqvbc"],
+      "visitWantWork": ["recim5n1erZOrWqix", "recLQTdgoiD7x018j"],
+      "visitLess48Hr": ["recV2ZeTQjDEaumSk"],
+      "benefit": ["rectHAzWBlEq9QJZT"],
+      "Name": "rec1y5QPIIjvwb3DW"
     },
     {
-      "benefit": ["recCmW24kf7C1Wzg4"],
-      "patronType": ["recUEwhpkEmPKlY24"],
-      "patronAge": ["recWQlTdT9kWHFPM1"],
-      "Name": "recHVn8taUusAcSqx",
-      "patronLocation": []
+      "patronType": ["recRDY0mdJIk7aJpd"],
+      "visitResidentUS": ["recReD188mG3lo8Ck", "recClE1nCMgnYqvbc"],
+      "visitWantWork": ["recim5n1erZOrWqix"],
+      "visitLess48Hr": ["recP7ILyZXkUKVMwE"],
+      "benefit": ["rec8ySnzvlO57PojP"],
+      "Name": "recCBiSpfQHz0r94s"
     },
     {
-      "benefit": ["recCmW24kf7C1Wzg4"],
-      "patronType": ["recMBfIiDsvy7DtqP"],
-      "Name": "recLY37Jtdy66Pyze",
-      "patronLocation": [],
-      "patronAge": []
+      "patronType": ["recSlISMIzrJIsFed"],
+      "studyLength": ["recJen9uh491HF16P"],
+      "studyInCanada": ["recJjwlTnFIn5LK70"],
+      "benefit": ["recyM6PMt9y1KuKE2"],
+      "Name": "recG8tL1T2AbOG8Ih",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
     },
     {
-      "benefit": ["rec3w95vV4Bj7i8kr"],
-      "patronType": ["recMBfIiDsvy7DtqP"],
-      "patronLocation": ["recyQBe7DxlBDhxm4"],
-      "Name": "rec8C6xPv5ORcL7az",
-      "patronAge": []
+      "patronType": ["recSlISMIzrJIsFed"],
+      "studyLength": ["recE8mYPR761zepVg"],
+      "studyInCanada": ["recJjwlTnFIn5LK70"],
+      "benefit": ["rect2Uixss1q783lL"],
+      "Name": "recKVwFF1Eulro6Tk",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
     },
     {
-      "benefit": ["recv5CmS6utSJYHiM"],
-      "patronType": ["recMBfIiDsvy7DtqP"],
-      "patronLocation": ["recyQBe7DxlBDhxm4"],
-      "Name": "recQK4IWzP2h81GGZ",
-      "patronAge": []
+      "patronType": ["recSlISMIzrJIsFed"],
+      "benefit": ["recBj2acAJALOuc2D"],
+      "Name": "recXQnqCmNd1JiNtJ",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
     },
     {
-      "benefit": ["rec03713ExoD8JVNc"],
-      "patronType": ["recMBfIiDsvy7DtqP"],
-      "patronLocation": ["recSf3ZeRvc0UVjM2"],
-      "Name": "recCjHvbVgGaOUku1",
-      "patronAge": []
+      "patronType": ["reca9wE4ZNBie4mhZ"],
+      "workCaregiver": ["recdBmO5bzh3QMIvh"],
+      "workValidPermit": ["recyRy2150zgjVetC"],
+      "benefit": ["recA7lEWGLGEJvXha"],
+      "Name": "recq5IDoQhhirapKY",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
     },
     {
-      "benefit": ["recSpT6fzYT8COV67"],
-      "patronType": ["recMr2OPtvGBAIiIW"],
-      "Name": "recrZrtp2eGh52oPL",
-      "patronLocation": [],
-      "patronAge": []
+      "patronType": ["reca9wE4ZNBie4mhZ"],
+      "workQuebec": ["recxFHj7rsTVfLqlf"],
+      "workValidPermit": ["recK1ZJNleXhPsdyT"],
+      "workVocationList": ["recxPJDShvezfmxz5"],
+      "benefit": ["recmTJU7fRW0E0Pab"],
+      "Name": "recOQdsk1Ns5j2EdW",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
     },
     {
-      "Name": "rec7guNV5WzmoInja",
-      "benefit": [],
-      "patronType": [],
-      "patronLocation": [],
-      "patronAge": []
+      "patronType": ["reca9wE4ZNBie4mhZ"],
+      "workQuebec": ["recVijfxGV2kAm8o1"],
+      "workValidPermit": ["recK1ZJNleXhPsdyT"],
+      "workVocationList": ["recxPJDShvezfmxz5"],
+      "benefit": ["recSHg09pAj61R2va"],
+      "Name": "rechtJMwA5DA8VpXk",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reca9wE4ZNBie4mhZ"],
+      "workCaregiver": ["recaeBaQEDPedia9b"],
+      "workValidPermit": ["recyRy2150zgjVetC"],
+      "benefit": ["recjE11n0ZoHc2CeA"],
+      "Name": "recSUCUkSXKB8NJiH",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveWorkExperience": ["recj0k6fiydqpeCes"],
+      "benefit": ["rec55Qj7eOBp8gbMA"],
+      "Name": "reczpBe9CJMScEPuk",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveCaregiver": ["rechmF2AHNjRl2Md4"],
+      "moveWorkExperience": ["recmzMxPauvxKWVOe"],
+      "benefit": ["recA7lEWGLGEJvXha"],
+      "Name": "rectWDlgCIyiRK1hQ",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveChildren": ["rec9dSPIha8ZVodzF"],
+      "moveWorkExperience": ["recmzMxPauvxKWVOe"],
+      "moveSpouse": ["recg3AmhjpQkG70g6"],
+      "benefit": ["rec0hDCRatVKCcn9p"],
+      "Name": "recWfle2QEssusSQR",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveChildren": ["rec9dSPIha8ZVodzF"],
+      "moveWorkExperience": ["recmzMxPauvxKWVOe"],
+      "moveSpouse": ["recoa7xUAMy47FOAe"],
+      "benefit": ["rec0hDCRatVKCcn9p"],
+      "Name": "recpQhUoeOWscyNGd",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveChildren": ["rec9dSPIha8ZVodzF"],
+      "moveWorkExperience": ["recj0k6fiydqpeCes"],
+      "benefit": ["rec0hDCRatVKCcn9p"],
+      "Name": "recKNd0335beLJeLO",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveWorkExperience": ["recmzMxPauvxKWVOe"],
+      "moveSpouse": ["recoa7xUAMy47FOAe"],
+      "benefit": ["recXrCoj9f6UClb5v"],
+      "Name": "recaA2TdFWwSAPxyh",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveWorkExperience": ["recj0k6fiydqpeCes"],
+      "moveSpouse": ["recoa7xUAMy47FOAe"],
+      "benefit": ["recXrCoj9f6UClb5v"],
+      "Name": "recFWXb20g47JGTQR",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveChildren": ["rec9dSPIha8ZVodzF"],
+      "moveWorkExperience": ["recmzMxPauvxKWVOe"],
+      "moveSpouse": ["recg3AmhjpQkG70g6"],
+      "benefit": ["reccWYt8OEDP6XbOJ"],
+      "Name": "rec2QmehyVRVrSWxw",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveChildren": ["rec9dSPIha8ZVodzF"],
+      "moveWorkExperience": ["recmzMxPauvxKWVOe"],
+      "moveSpouse": ["recoa7xUAMy47FOAe"],
+      "benefit": ["reccWYt8OEDP6XbOJ"],
+      "Name": "recLk7oDm6X7vsmgy",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "moveChildren": ["rec9dSPIha8ZVodzF"],
+      "moveWorkExperience": ["recj0k6fiydqpeCes"],
+      "benefit": ["reccWYt8OEDP6XbOJ"],
+      "Name": "rec4WAkRMfxbitCPb",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "benefit": ["rec4wKqbxcU8DSNmD"],
+      "Name": "recVdrLkPLmrXF63F",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "benefit": ["receGIVh8y0Uk0c9u"],
+      "Name": "recFZLig7dIqorVvi",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "benefit": ["rectw2Hw5sPjEywVg"],
+      "Name": "recTE4VqIyFjwHhNl",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "benefit": ["recZEPTV4UzUbZ6TL"],
+      "Name": "reczZVB2C0Va650iO",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "benefit": ["rec65iKtJiOAJPWHj"],
+      "Name": "recBBPCirDTOJke7z",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
+    },
+    {
+      "patronType": ["reco3nMZnoUEy1QUZ"],
+      "benefit": ["rectGKbSfcyGYACLU"],
+      "Name": "recSyj92iulu8fukI",
+      "visitResidentUS": [],
+      "visitWantWork": [],
+      "visitLess48Hr": []
     }
   ],
   "needs": [
     {
-      "nameEn": "Health support",
-      "benefits": [
-        "reclO0wMapgJNMlAs",
-        "recv5CmS6utSJYHiM",
-        "rec03713ExoD8JVNc"
-      ],
-      "nameFr": "(fra) Health support",
-      "colour": "#f0b5b5",
-      "id": "recWFZGPEbgMtNbbz"
-    },
-    {
-      "nameEn": "Financial assistance",
-      "benefits": ["recoFRhS14rE9jt0v", "recCmW24kf7C1Wzg4"],
-      "nameFr": "(fra) Financial assistance",
-      "id": "recWJA8VGxtunsYBY",
-      "colour": ""
-    },
-    {
-      "nameEn": "Home support",
-      "benefits": ["rec3w95vV4Bj7i8kr"],
-      "nameFr": "(fra) Home support",
-      "id": "recrFaqBTcCoYsRCt",
-      "colour": ""
+      "nameEn": "I am a need",
+      "id": "recQZYJIiW7tqNnyF"
     }
   ],
   "translations": [
     {
       "section": "all-benefits",
       "key": "List of all benefits",
-      "English": "List of all benefits",
       "French": "La liste complète des avantages",
+      "English": "List of all benefits",
       "id": "all-benefits.List of all benefits"
     },
     {
       "key": "alpha",
-      "English": "This is an internal service.",
       "French": "Ceci est un service interne.",
+      "English": "This is an internal service.",
       "id": "alpha",
       "section": ""
     },
     {
       "key": "alpha-feedback",
-      "English": "Email us with feedback.",
       "French": "Envoyez-nous vos commentaires par courriel.",
+      "English": "Email us with feedback.",
       "id": "alpha-feedback",
       "section": ""
     },
     {
       "section": "alt_text",
       "key": "edit",
-      "English": "edit",
       "French": "modifier",
+      "English": "edit",
       "id": "alt_text.edit"
     },
     {
       "section": "alt_text",
       "key": "important",
-      "English": "important information",
       "French": "renseignements importants",
+      "English": "important information",
       "id": "alt_text.important"
     },
     {
       "section": "B3",
       "key": "All benefits to consider",
-      "English": "Showing all benefits and services",
       "French": " Tous les avantages et services",
+      "English": "Showing all Programs",
       "id": "B3.All benefits to consider"
     },
     {
       "section": "B3",
-      "key": "Alphabetical",
-      "English": "Alphabetical",
-      "French": "Alphabétique",
-      "id": "B3.Alphabetical"
-    },
-    {
-      "section": "B3",
       "key": "check eligibility",
-      "English": "Remember to read the eligibility criteria for each benefit before applying.",
       "French": "Vérifiez les critères d’admissibilité de chaque avantage avant de faire une demande.",
+      "English": "Remember to read the eligibility criteria for each benefit before applying.",
       "id": "B3.check eligibility"
     },
     {
       "section": "B3",
-      "key": "disabled_cookies_link",
-      "English": "https://www.whatismybrowser.com/guides/how-to-enable-cookies/auto",
-      "French": "https://www.whatismybrowser.com/guides/how-to-enable-cookies/auto",
-      "id": "B3.disabled_cookies_link"
-    },
-    {
-      "section": "B3",
-      "key": "disabled_cookies_link_text",
-      "English": "Find out how to enable cookies here. ",
-      "French": "Découvrez comment activer les témoins (cookies) ici. ",
-      "id": "B3.disabled_cookies_link_text"
-    },
-    {
-      "section": "B3",
       "key": "disabled_cookies_text",
-      "English": "Cookies need to be enabled for this site to save benefits for later. ",
       "French": "Les témoins (cookies) doivent être activés pour ce site afin de sauvegarder les avantages pour plus tard.",
+      "English": "Cookies need to be enabled for this site to save benefits for later. ",
       "id": "B3.disabled_cookies_text"
     },
     {
       "section": "B3",
       "key": "favouritesButtonBText",
-      "English": "Save to your list",
       "French": " Ajouter à votre liste",
+      "English": "Save to your list",
       "id": "B3.favouritesButtonBText"
     },
     {
       "section": "B3",
-      "key": "favouritesButtonBTextMobile",
-      "English": "Save",
-      "French": "Sauvegarder",
-      "id": "B3.favouritesButtonBTextMobile"
-    },
-    {
-      "section": "B3",
       "key": "favouritesButtonText",
-      "English": "Saved list",
       "French": "Liste sauvegardée",
+      "English": "Saved list",
       "id": "B3.favouritesButtonText"
     },
     {
       "section": "B3",
       "key": "favouritesButtonTextRemove",
-      "English": "Saved to your list",
       "French": "Élément ajouté à votre liste",
+      "English": "Saved to your list",
       "id": "B3.favouritesButtonTextRemove"
     },
     {
       "section": "B3",
-      "key": "Filter by eligibility",
-      "English": "My selection:",
-      "French": "Ma sélection:",
-      "id": "B3.Filter by eligibility"
-    },
-    {
-      "section": "B3",
       "key": "No benefits",
-      "English": "At this time there are no benefits that match your selections",
       "French": "Pour le moment, aucun avantage ne correspond à vos sélections.",
+      "English": "At this time there are no benefits that match your selections",
       "id": "B3.No benefits"
     },
     {
       "section": "B3",
       "key": "One benefit",
-      "English": "One benefit or service matches your selections",
       "French": "Un avantage correspond à vos sélections",
+      "English": "One benefit or service matches your selections",
       "id": "B3.One benefit"
     },
     {
       "section": "B3",
-      "key": "Popularity",
-      "English": "Most popular",
-      "French": "Pertinence",
-      "id": "B3.Popularity"
-    },
-    {
-      "section": "B3",
       "key": "results_all_benefits",
-      "English": "Results from all benefits and services:",
       "French": "Résultats des avantages et des services",
+      "English": "Results from all benefits and services:",
       "id": "B3.results_all_benefits"
     },
     {
       "section": "B3",
       "key": "results_filtered",
-      "English": "Results from your selections:",
       "French": "Résultats de la recherche effectuée dans vos sélections",
+      "English": "Results from your selections:",
       "id": "B3.results_filtered"
     },
     {
       "section": "B3",
       "key": "search_results",
-      "English": "{{x}} search results",
       "French": "{{x}} résultats",
+      "English": "{{x}} search results",
       "id": "B3.search_results"
     },
     {
       "section": "B3",
       "key": "search_results_single",
-      "English": "1 search result",
       "French": "1 résultat",
+      "English": "1 search result",
       "id": "B3.search_results_single"
     },
     {
       "section": "B3",
       "key": "search_tip",
-      "English": "Search tips: check for spelling or try using a different word.",
       "French": "Conseils de recherche : vérifiez l’orthographe ou essayez d’utiliser un mot différent.",
+      "English": "Search tips: check for spelling or try using a different word.",
       "id": "B3.search_tip"
     },
     {
       "section": "B3",
-      "key": "see_less",
-      "English": "See less",
-      "French": "Afficher moins",
-      "id": "B3.see_less"
-    },
-    {
-      "section": "B3",
-      "key": "see_more",
-      "English": "See more",
-      "French": "En savoir plus",
-      "id": "B3.see_more"
-    },
-    {
-      "section": "B3",
-      "key": "Sort By",
-      "English": "Sort by",
-      "French": "Trier par",
-      "id": "B3.Sort By"
-    },
-    {
-      "section": "B3",
       "key": "x benefits to consider",
-      "English": "{{x}} results",
       "French": "{{x}} avantages correspondent à vos sélections",
+      "English": "{{x}} Programs may be right for you ",
       "id": "B3.x benefits to consider"
     },
     {
       "key": "back",
-      "English": "Back",
       "French": "Retour",
+      "English": "Back",
       "id": "back",
       "section": ""
     },
     {
       "section": "benefit_card",
       "key": "examples",
-      "English": "Some examples of what this program may provide:",
       "French": "Quelques exemples de ce que ce programme peut fournir :",
+      "English": "Some examples of what this program may provide:",
       "id": "benefit_card.examples"
     },
     {
       "section": "benefits_b",
       "key": "card_header_1",
+      "French": "Vous devez faire approuver votre demande de «",
       "English": "You need to be approved for",
-      "French": "Vous devez être approuvé pour",
       "id": "benefits_b.card_header_1"
     },
     {
       "section": "benefits_b",
-      "key": "card_header_2",
-      "English": "before applying for",
-      "French": "avant de demander",
-      "id": "benefits_b.card_header_2"
+      "key": "card_header_3",
+      "French": "» avant de demander « {{x}} ».",
+      "English": "before applying for {{x}}.",
+      "id": "benefits_b.card_header_3"
     },
     {
       "section": "benefits_b",
       "key": "eligible_for_multi",
-      "English": "can provide access to {{x}} other benefits",
       "French": "peut donner accès à {{x}} autres avantages",
+      "English": "can provide access to {{x}} other benefits",
       "id": "benefits_b.eligible_for_multi"
     },
     {
       "section": "benefits_b",
       "key": "eligible_for_single",
-      "English": "can provide access to {{x}}",
       "French": "peut donner accès à {{x}}",
+      "English": "can provide access to {{x}}",
       "id": "benefits_b.eligible_for_single"
     },
     {
       "section": "benefits_b",
       "key": "eligible_open_family",
-      "English": "Additionally, family members may qualify for:",
       "French": "De plus, les membres de la famille peuvent être admissibles à:",
+      "English": "Additionally, family members may qualify for:",
       "id": "benefits_b.eligible_open_family"
     },
     {
       "section": "benefits_b",
       "key": "eligible_open_veteran",
-      "English": "By receiving {{x}} the service member may qualify for:",
-      "French": "En recevant {{x}}, le membre en service peut se qualifier pour:",
+      "French": "En recevant « {{x}} », le destinataire peut se qualifier pour:",
+      "English": "By receiving {{x}} the recipient may qualify for:",
       "id": "benefits_b.eligible_open_veteran"
     },
     {
       "section": "benefits_b",
       "key": "learn_more",
-      "English": "Learn more about {{x}}",
       "French": "Obtenir plus d’information au sujet de {{x}}",
+      "English": "Learn more about {{x}}",
       "id": "benefits_b.learn_more"
     },
     {
       "section": "BenefitsPane",
       "key": "contact_us",
-      "English": "Contact Us",
       "French": "Contactez-nous",
+      "English": "Contact Us",
       "id": "BenefitsPane.contact_us"
     },
     {
       "section": "BenefitsPane",
       "key": "no_filtered_benefits",
-      "English": "There are no benefits that match your selections",
       "French": "Il n'y a pas d'avantages qui correspondent aux sélections",
+      "English": "There are no benefits that match your selections",
       "id": "BenefitsPane.no_filtered_benefits"
     },
     {
       "section": "BenefitsPane",
       "key": "or",
-      "English": "or",
       "French": "ou",
+      "English": "or",
       "id": "BenefitsPane.or"
     },
     {
       "section": "BenefitsPane",
       "key": "reset_filters",
-      "English": "Reset Selections",
       "French": "Réinitialiser les sélections",
+      "English": "Reset Selections",
       "id": "BenefitsPane.reset_filters"
     },
     {
-      "key": "CAF",
-      "English": "Canadian Armed Forces",
-      "French": "Forces Armées Canadiennes",
-      "id": "CAF",
-      "section": ""
-    },
-    {
-      "key": "cancel",
-      "English": "Cancel",
-      "French": "Annuler",
-      "id": "cancel",
-      "section": ""
-    },
-    {
       "key": "comment-help-us-improve",
-      "English": "Help us improve this site",
       "French": "Aidez-nous à améliorer ce site",
+      "English": "Help us improve this site",
       "id": "comment-help-us-improve",
       "section": ""
     },
     {
       "key": "comment-privacy-disclaimer",
-      "English": "Please do not include private information",
       "French": "Veuillez ne pas inclure d'informations privées",
+      "English": "Please do not include private information",
       "id": "comment-privacy-disclaimer",
       "section": ""
     },
     {
       "key": "comment-what-went-wrong",
-      "English": "What went wrong?",
       "French": "Qu'est ce qui ne s'est pas bien passé?",
+      "English": "What went wrong?",
       "id": "comment-what-went-wrong",
-      "section": ""
-    },
-    {
-      "key": "comment-what-were-you-doing",
-      "English": "What were you doing?",
-      "French": "Que faisiez-vous?",
-      "id": "comment-what-were-you-doing",
       "section": ""
     },
     {
       "section": "contact",
       "key": "email",
-      "English": "vac.information.acc@canada.ca",
-      "French": "vac.information.acc@canada.ca",
+      "French": "sample@email.ca",
+      "English": "sample@email.ca",
       "id": "contact.email"
     },
     {
       "section": "contact",
-      "key": "feedback_email",
-      "English": "vac@cds-snc.ca",
-      "French": "acc@cds-snc.ca",
-      "id": "contact.feedback_email"
-    },
-    {
-      "section": "contact",
       "key": "my_vac_link",
-      "English": "https://www.veterans.gc.ca/eng/e_services",
-      "French": "https://www.veterans.gc.ca/fra/endirect",
+      "French": "https://numerique.canada.ca/",
+      "English": "https://digital.canada.ca/",
       "id": "contact.my_vac_link"
     },
     {
       "section": "contact",
       "key": "phone",
-      "English": " 1-866-522-2122",
-      "French": "1-866-522-2022",
+      "French": " 1-123-456-7890",
+      "English": " 1-123-456-7890",
       "id": "contact.phone"
     },
     {
       "key": "current-language-code",
-      "English": "en",
       "French": "fr",
+      "English": "en",
       "id": "current-language-code",
       "section": ""
     },
     {
-      "key": "deceased",
-      "English": "Deceased",
-      "French": "Décédé",
-      "id": "deceased",
-      "section": ""
-    },
-    {
       "key": "description",
-      "English": "VAC Proof of Concept",
-      "French": "Preuve de concept pour le projet ACC",
+      "French": "Aider les gens à trouver les avantages qui répondent à leurs besoins.",
+      "English": "Help people find benefits that meet their needs.",
       "id": "description",
       "section": ""
     },
     {
       "section": "directory",
       "key": "edit_selections",
-      "English": "Edit selections",
       "French": "Modifier les sélections",
+      "English": "Change your answers",
       "id": "directory.edit_selections"
     },
     {
       "section": "dv",
       "key": "Benefits not in an Eligibility Path",
-      "English": "Benefits not in an eligibility path",
       "French": "Avantages non dans un chemin d'admissibilité",
+      "English": "Benefits not in an eligibility path",
       "id": "dv.Benefits not in an Eligibility Path"
     },
     {
       "section": "dv",
       "key": "Benefits not in the Benefit Eligibility Table",
-      "English": "Benefits not in the Benefit Eligibility Table",
       "French": "Avantages ne figurant pas dans le tableau d’admissibilité aux avantages",
+      "English": "Benefits not in the Benefit Eligibility Table",
       "id": "dv.Benefits not in the Benefit Eligibility Table"
     },
     {
       "section": "dv",
       "key": "Benefits with Empty Fields",
-      "English": "Benefits with empty fields",
       "French": "Avantages avec des champs vides",
+      "English": "Benefits with empty fields",
       "id": "dv.Benefits with Empty Fields"
     },
     {
       "section": "dv",
       "key": "Benefits Without Needs",
-      "English": "Benefits without needs",
       "French": "Avantages sans besoins",
+      "English": "Benefits without needs",
       "id": "dv.Benefits Without Needs"
     },
     {
       "section": "dv",
       "key": "emptyAreaOffices",
-      "English": "areaOffices contains empty fields",
       "French": "La table areaOffices contient des champs vides",
+      "English": "areaOffices contains empty fields",
       "id": "dv.emptyAreaOffices"
     },
     {
       "section": "dv",
       "key": "emptyTranslations",
-      "English": "Translations contains empty fields",
       "French": " La table de traductions contient des champs vides",
+      "English": "Translations contains empty fields",
       "id": "dv.emptyTranslations"
     },
     {
       "section": "dv",
       "key": "errors",
-      "English": "Server Errors",
       "French": "Erreurs de Serveur",
+      "English": "Server Errors",
       "id": "dv.errors"
     },
     {
       "section": "dv",
       "key": "Fail",
-      "English": "Fail",
       "French": "Échouer",
+      "English": "Fail",
       "id": "dv.Fail"
     },
     {
       "section": "dv",
       "key": "last_cache_update",
-      "English": "Last cache update",
       "French": "Dernière mise à jour du cache",
+      "English": "Last cache update",
       "id": "dv.last_cache_update"
     },
     {
       "section": "dv",
       "key": "name",
-      "English": "Name",
       "French": "Nom",
+      "English": "Name",
       "id": "dv.name"
     },
     {
       "section": "dv",
       "key": "nameAreaOfficesSize",
-      "English": "Size of areaOffices table",
       "French": "Taille de la table areaOffices",
+      "English": "Size of areaOffices table",
       "id": "dv.nameAreaOfficesSize"
     },
     {
       "section": "dv",
       "key": "nameTranslationTableSize",
-      "English": "Size of Translations Table",
       "French": "Taille de la table de translation",
+      "English": "Size of Translations Table",
       "id": "dv.nameTranslationTableSize"
     },
     {
       "section": "dv",
       "key": "pageTitle",
-      "English": "Data Validation",
       "French": "Validation des Données",
+      "English": "Data Validation",
       "id": "dv.pageTitle"
     },
     {
       "section": "dv",
       "key": "Pass",
-      "English": "Pass",
       "French": "Passer",
+      "English": "Pass",
       "id": "dv.Pass"
     },
     {
       "section": "dv",
       "key": "Size of Benefit Eligibility Table",
-      "English": "Size of Benefit Eligibility table",
       "French": "Taille du tableau d’admissibilité aux avantages",
+      "English": "Size of Benefit Eligibility table",
       "id": "dv.Size of Benefit Eligibility Table"
     },
     {
       "section": "dv",
       "key": "Size of Benefits Table",
-      "English": "Size of benefits table",
       "French": "Taille de la table des avantages",
+      "English": "Size of benefits table",
       "id": "dv.Size of Benefits Table"
     },
     {
       "section": "dv",
       "key": "Size of Eligibility Paths Table",
-      "English": "Size of eligibility paths table",
       "French": "Taille du tableau des chemins d'admissibilité",
+      "English": "Size of eligibility paths table",
       "id": "dv.Size of Eligibility Paths Table"
     },
     {
       "section": "dv",
       "key": "Size of Needs Table",
-      "English": "Size of needs table",
       "French": "Tableau de la taille des besoins",
+      "English": "Size of needs table",
       "id": "dv.Size of Needs Table"
     },
     {
       "section": "dv",
       "key": "status",
-      "English": "Status",
       "French": "Statut",
+      "English": "Status",
       "id": "dv.status"
     },
     {
       "section": "dv",
       "key": "validate",
-      "English": "Validate",
       "French": "Valider",
+      "English": "Validate",
       "id": "dv.validate"
     },
     {
       "section": "dv",
       "key": "validateURLs",
-      "English": "Validate URLs",
       "French": "Valider les URLs",
+      "English": "Validate URLs",
       "id": "dv.validateURLs"
     },
     {
       "section": "dv",
       "key": "value",
-      "English": "Value",
       "French": "Valeur",
+      "English": "Value",
       "id": "dv.value"
     },
     {
       "section": "favourites",
-      "key": "apply_prompt",
-      "English": "Apply online",
-      "French": "Présenter une demande en ligne",
-      "id": "favourites.apply_prompt"
-    },
-    {
-      "section": "favourites",
       "key": "back_link",
-      "English": "Back",
       "French": "Retour",
+      "English": "Back",
       "id": "favourites.back_link"
     },
     {
       "section": "favourites",
       "key": "call_time",
-      "English": "Give us a call Monday to Friday, 08:30 - 16:30 local time.",
       "French": "Appelez-nous du lundi au vendredi, entre 8 h 30 et 16 h 30, heure locale.",
+      "English": "Give us a call Monday to Friday, 08:30 - 16:30 local time.",
       "id": "favourites.call_time"
     },
     {
       "section": "favourites",
       "key": "contact_us",
-      "English": "Contact Us",
       "French": "Contactez-nous",
+      "English": "Contact Us",
       "id": "favourites.contact_us"
     },
     {
       "section": "favourites",
       "key": "disabled_cookies_tooltip",
-      "English": "Cookies need to be enabled to save benefits for later.",
       "French": "Les témoins (cookies) doivent être activés pour sauvegarder les avantages pour plus tard. ",
+      "English": "Cookies need to be enabled to save benefits for later.",
       "id": "favourites.disabled_cookies_tooltip"
     },
     {
       "section": "favourites",
       "key": "email_disclaimer",
-      "English": "Please do not email personal or confidential information.",
       "French": "N’envoyez pas de renseignements personnels ou confidentiels par courriel.",
+      "English": "Please do not email personal or confidential information.",
       "id": "favourites.email_disclaimer"
     },
     {
       "section": "favourites",
       "key": "help_msg_emphasis",
-      "English": "Save to your list",
       "French": "Ajouter à votre liste",
+      "English": "Save to your list",
       "id": "favourites.help_msg_emphasis"
     },
     {
       "section": "favourites",
       "key": "help_msg_last",
-      "English": "to add benefits here.",
       "French": "pour ajouter des services à cette page.",
+      "English": "to add benefits here.",
       "id": "favourites.help_msg_last"
     },
     {
       "section": "favourites",
       "key": "help_msg_line_connect",
-      "English": "and select ",
       "French": "et sélectionnez",
+      "English": "and select ",
       "id": "favourites.help_msg_line_connect"
     },
     {
       "section": "favourites",
       "key": "help_msg_line1",
-      "English": "You currently have no saved benefits.",
       "French": "Vous n'avez aucun service sauvegardé.",
+      "English": "You currently have no saved benefits.",
       "id": "favourites.help_msg_line1"
     },
     {
       "section": "favourites",
-      "key": "help_url",
-      "English": "benefits-directory?lng=en&sortBy=relevance",
-      "French": "benefits-directory?lng=fr&sortBy=relevance",
-      "id": "favourites.help_url"
-    },
-    {
-      "section": "favourites",
       "key": "help_url_text",
-      "English": "Return to the benefits list",
       "French": "Retourner à la liste de services",
+      "English": "Return to the benefits list",
       "id": "favourites.help_url_text"
     },
     {
       "section": "favourites",
-      "key": "login_link",
-      "English": "MyVAC Account",
-      "French": "Mon dossier ACC",
-      "id": "favourites.login_link"
-    },
-    {
-      "section": "favourites",
-      "key": "login_prompt",
-      "English": "Sign up to start your application to these benefits.",
-      "French": "Veuillez vous inscrire pour commencer votre demande.",
-      "id": "favourites.login_prompt"
-    },
-    {
-      "section": "favourites",
-      "key": "print_instructions",
-      "English": "In-person guidance is available in one of our area offices without an appointment.",
-      "French": "Nos agents sont disponibles pour vous aider dans un de nos bureaux locaux sans rendez-vous.",
-      "id": "favourites.print_instructions"
-    },
-    {
-      "section": "favourites",
       "key": "saved_benefits",
+      "French": "Liste sauvegardée ({{x}})",
       "English": "Saved list ({{x}})",
-      "French": "Avantages sauvegardés ({{x}})",
       "id": "favourites.saved_benefits"
     },
     {
-      "section": "favourites",
-      "key": "visit_prompt",
-      "English": "Find a nearby office",
-      "French": "Trouvez un bureau près de vous",
-      "id": "favourites.visit_prompt"
-    },
-    {
       "key": "feedback-prompt",
-      "English": "Did you find the information you're looking for?",
       "French": "Avez-vous trouvé l'information recherchée?",
+      "English": "Did you find the information you're looking for?",
       "id": "feedback-prompt",
       "section": ""
     },
     {
       "key": "filter by category",
-      "English": "What kind of benefits are you looking for?",
-      "French": "Quel type de prestations recherchez-vous? (fra)",
+      "French": "Sélectionnez les types d'avantages que vous voulez consulter.",
+      "English": "Select the categories of benefits you want to see.",
       "id": "filter by category",
       "section": ""
     },
     {
-      "key": "filters",
-      "English": "Filter benefits",
-      "French": "Filtres",
-      "id": "filters",
-      "section": ""
-    },
-    {
       "key": "Find out more",
-      "English": "Learn more",
       "French": "En savoir plus",
+      "English": "Learn more",
       "id": "Find out more",
       "section": ""
     },
     {
       "section": "ge",
       "key": "Find benefits and services",
-      "English": "Find benefits and services",
-      "French": "Rechercher les avantages et les services",
+      "French": "Rechercher des avantages et des services",
+      "English": "Canada Immigration Program Finder",
       "id": "ge.Find benefits and services"
     },
     {
       "section": "ge",
       "key": "home_link",
-      "English": "https://www.veterans.gc.ca/eng",
-      "French": "https://www.veterans.gc.ca/fra",
+      "French": "https://numerique.canada.ca/",
+      "English": "https://digital.canada.ca",
       "id": "ge.home_link"
     },
     {
       "section": "ge",
       "key": "intro_text_p1",
-      "English": "On the next few pages, we’ll ask questions about you so we can show benefits and services relevant for you.",
       "French": "Dans les pages qui suivent, nous vous posons quelques questions sur vous-même et sur les avantages et les services qui pourraient vous intéresser. Répondre à toutes les questions vous prendra environ 2 minutes. ",
+      "English": "On the next few pages, we’ll ask questions about you so we can show benefits and services relevant for you.",
       "id": "ge.intro_text_p1"
     },
     {
       "section": "ge",
       "key": "intro_text_p2",
-      "English": "It'll take around 2 minutes to complete and you may skip questions at any time. ",
       "French": "Répondre à toutes les questions n’est pas obligatoire et n’affectera pas votre admissibilité.",
+      "English": "It'll take around 2 minutes to complete and you may skip questions at any time. ",
       "id": "ge.intro_text_p2"
     },
     {
       "section": "ge",
-      "key": "not_selected",
-      "English": "not selected",
-      "French": "aucune sélection",
-      "id": "ge.not_selected"
-    },
-    {
-      "section": "ge",
       "key": "nothing_selected",
-      "English": "- Not selected -",
       "French": "- Aucune sélection -",
+      "English": "- Not selected -",
       "id": "ge.nothing_selected"
     },
     {
       "section": "ge",
       "key": "show_results",
-      "English": "Show results",
       "French": "Afficher les résultats",
+      "English": "Show results",
       "id": "ge.show_results"
     },
     {
       "section": "ge",
       "key": "skip",
-      "English": "Skip question",
       "French": "Sauter la question",
+      "English": "Skip question",
       "id": "ge.skip"
     },
     {
       "section": "ge",
       "key": "summary_subtitle",
-      "English": "Review your selections",
       "French": "Passer en revue vos sélections",
+      "English": "Review your selections",
       "id": "ge.summary_subtitle"
     },
     {
       "section": "ge",
       "key": "summary_tooltip",
-      "English": "You may edit these at any time.",
       "French": "Vous pouvez modifier vos sélections en tout temps",
+      "English": "You may edit these at any time.",
       "id": "ge.summary_tooltip"
     },
     {
       "section": "ge",
       "key": "edit",
-      "English": "Edit",
       "French": "Modifier",
+      "English": "Edit",
       "id": "ge.edit"
     },
     {
       "section": "header",
       "key": "beta",
-      "English": "BETA",
       "French": "BÊTA",
+      "English": "BETA",
       "id": "header.beta"
     },
     {
       "section": "index",
-      "key": "all benefits",
-      "English": "View all benefits",
-      "French": "Voir tous les services",
-      "id": "index.all benefits"
-    },
-    {
-      "section": "index",
-      "key": "alt_text_1",
-      "English": "hand scrolling a list",
-      "French": "défilement manuel d'une liste",
-      "id": "index.alt_text_1"
-    },
-    {
-      "section": "index",
-      "key": "benefits_prompt",
-      "English": "View the full list of benefits and services offered by VAC. ",
-      "French": "Consultez la liste complète des services et avantages offerts par ACC.  ",
-      "id": "index.benefits_prompt"
-    },
-    {
-      "section": "index",
-      "key": "favourites_prompt",
-      "English": "Return to the list of benefits you’ve previously saved.  ",
-      "French": "Retournez à votre liste d'avantages précédemment sauvegardés.",
-      "id": "index.favourites_prompt"
-    },
-    {
-      "section": "index",
-      "key": "ge_prompt",
-      "English": "Answer a few questions for a list of benefits tailored to you.",
-      "French": "Répondez à quelques questions pour obtenir une liste de services qui correspond à vos besoins. ",
-      "id": "index.ge_prompt"
-    },
-    {
-      "section": "index",
-      "key": "guided experience",
-      "English": "Find benefits for me",
-      "French": "Trouver des services pour moi",
-      "id": "index.guided experience"
-    },
-    {
-      "section": "index",
       "key": "or",
-      "English": "or",
       "French": "ou",
+      "English": "or",
       "id": "index.or"
     },
     {
       "section": "index",
-      "key": "search_prompt",
-      "English": "Look up benefits by name or description. ",
-      "French": "Rechercher un service par nom ou description. ",
-      "id": "index.search_prompt"
-    },
-    {
-      "section": "index",
-      "key": "title",
-      "English": "Find the services and benefits available to you.",
-      "French": "Découvrez les services et avantages à votre disposition.",
-      "id": "index.title"
-    },
-    {
-      "section": "index",
       "key": "your_saved_benefits",
-      "English": "Your saved benefits",
-      "French": "Vos services sauvegardés",
+      "French": "Liste sauvegardée",
+      "English": "Saved list",
       "id": "index.your_saved_benefits"
     },
     {
       "key": "next",
-      "English": "Next",
       "French": "Suivant",
+      "English": "Next",
       "id": "next",
       "section": ""
     },
     {
       "section": "nextSteps",
       "key": "box_1",
-      "English": "If you are registered for My VAC Account, you can submit your application online. If you aren't registered you can ",
-      "French": "Si vous êtes inscrit à Mon dossier ACC, vous pouvez présenter votre demande en ligne. Si vous n’êtes pas encore inscrit, vous pouvez ",
+      "French": "Si vous êtes inscrit à un dossier, vous pouvez présenter votre demande en ligne. Si vous n’êtes pas encore inscrit, vous pouvez ",
+      "English": "If you are registered for an Account, you can submit your application online. If you aren't registered you can ",
       "id": "nextSteps.box_1"
     },
     {
       "section": "nextSteps",
       "key": "box_2a",
-      "English": "In-person guidance is available in one of our area offices without an appointment. ",
       "French": "Vous pouvez vous présenter sans rendez-vous à l’un de nos bureaux de secteur pour obtenir de l’aide personnalisée.",
+      "English": "In-person guidance is available in one of our area offices without an appointment. ",
       "id": "nextSteps.box_2a"
     },
     {
       "section": "nextSteps",
       "key": "box_2b",
-      "English": "You can also give us a call at 1-866-522-2122 between Monday to Friday, 0830 - 1630 local time or email us at",
-      "French": "Vous pouvez aussi nous téléphoner au 1-866-522-2022, du lundi au vendredi, de 8 h 30 à 16 h 30, heure locale, ou nous envoyer un courriel à",
+      "French": "Vous pouvez aussi nous téléphoner au 1-123-456-7890, du lundi au vendredi, de 8 h 30 à 16 h 30, heure locale, ou nous envoyer un courriel à",
+      "English": "You can also give us a call at 1-123-456-7890 between Monday to Friday, 0830 - 1630 local time or email us at",
       "id": "nextSteps.box_2b"
     },
     {
       "section": "nextSteps",
       "key": "box_2c",
-      "English": ". Please do not email personal or confidential information and we will get back to you.",
       "French": ". N’envoyez pas d’information personnelle ou confidentielle par courriel. Nous communiquerons avec vous.",
+      "English": ". Please do not email personal or confidential information and we will get back to you.",
       "id": "nextSteps.box_2c"
     },
     {
       "section": "nextSteps",
       "key": "contact_us",
-      "English": "Contact us to find out more",
       "French": "Communiquez avec nous pour en savoir plus.",
+      "English": "Contact us to find out more",
       "id": "nextSteps.contact_us"
     },
     {
       "section": "nextSteps",
       "key": "myvac_button_text",
-      "English": "My VAC Account",
-      "French": "Mon dossier ACC",
+      "French": "Mon dossier",
+      "English": "My Account",
       "id": "nextSteps.myvac_button_text"
     },
     {
       "section": "nextSteps",
       "key": "myvac_register_href",
-      "English": "https://www.veterans.gc.ca/eng/e_services/create-my-vac-account?utm_source=fbas",
-      "French": "https://www.veterans.gc.ca/fra/e_services/create-my-vac-account?utm_source=fbas",
+      "French": "https://numerique.canada.ca",
+      "English": "https://digital.canada.ca",
       "id": "nextSteps.myvac_register_href"
     },
     {
       "section": "nextSteps",
       "key": "myvac_register_text",
-      "English": "register now",
       "French": "le faire maintenant",
+      "English": "register now",
       "id": "nextSteps.myvac_register_text"
     },
     {
       "section": "nextSteps",
       "key": "register_myvac",
-      "English": "Register for My VAC Account",
-      "French": "S’inscrire à Mon dossier ACC",
+      "French": "S’inscrire à un dossier",
+      "English": "Register for an Account",
       "id": "nextSteps.register_myvac"
     },
     {
       "section": "nextSteps",
       "key": "whats_next",
-      "English": "Next steps",
       "French": "Prochaines étapes",
+      "English": "Next steps",
       "id": "nextSteps.whats_next"
     },
     {
       "key": "no",
-      "English": "No",
       "French": "Non",
+      "English": "No",
       "id": "no",
       "section": ""
     },
     {
       "key": "noscript",
-      "English": "Javascript is disabled and you may experience reduced functionality. To see a full list of benefits, click <a href='/all-benefits'>here</a>.",
       "French": "Javascript est désactivé et vous pouvez rencontrer des fonctionnalités réduites. Pour voir la liste complète des avantages, cliquez <a href='/all-benefits'>ici</a>.",
+      "English": "Javascript is disabled and you may experience reduced functionality. To see a full list of benefits, click <a href='/all-benefits'>here</a>.",
       "id": "noscript",
       "section": ""
     },
     {
       "key": "other-language",
-      "English": "Français",
       "French": "English",
+      "English": "Français",
       "id": "other-language",
       "section": ""
     },
     {
       "key": "other-language-code",
-      "English": "fr",
       "French": "en",
+      "English": "fr",
       "id": "other-language-code",
       "section": ""
     },
     {
       "key": "other-language-in-current-language",
-      "English": "French",
       "French": "Anglais",
+      "English": "French",
       "id": "other-language-in-current-language",
       "section": ""
     },
     {
       "key": "Print",
-      "English": "Print this page",
       "French": "Imprimer",
+      "English": "Print this page",
       "id": "Print",
       "section": ""
     },
     {
       "section": "print",
       "key": "apply_online",
-      "English": "Apply online",
       "French": "Présenter une demande en ligne",
+      "English": "Apply online",
       "id": "print.apply_online"
     },
     {
       "section": "print",
       "key": "closest_office",
-      "English": "Closest VAC office:",
       "French": "Le bureau ACC le plus proche:",
+      "English": "Closest VAC office:",
       "id": "print.closest_office"
     },
     {
       "section": "print",
       "key": "have_any_questions",
-      "English": "Have any questions?",
       "French": "Avez-vous des questions?",
+      "English": "Have any questions?",
       "id": "print.have_any_questions"
     },
     {
       "section": "print",
       "key": "map_link",
-      "English": "https://vac-benefits-finder.cds-snc.ca/map?lng=en",
       "French": "https://vac-benefits-finder.cds-snc.ca/map?lng=fr",
+      "English": "https://vac-benefits-finder.cds-snc.ca/map?lng=en",
       "id": "print.map_link"
     },
     {
       "section": "print",
       "key": "sign_up_for_my_vac",
-      "English": "Sign up for a My VAC account once you’re ready to start applying.",
-      "French": "Inscrivez-vous à Mon ACC dès que vous êtes prêt à faire une demande.",
+      "French": "(FRA) Inscrivez-vous à un dossier que vous êtes prêt à faire une demande.",
+      "English": "Sign up for an account once you’re ready to start applying.",
       "id": "print.sign_up_for_my_vac"
     },
     {
       "section": "print",
       "key": "visit_office_prompt",
-      "English": "In-person help is available in all VAC offices, with and without an appointment.",
       "French": "Nos agents sont disponibles pour vous aider dans l'un de nos bureaux, avec ou sans rendez-vous. ",
+      "English": "In-person help is available in all VAC offices, with and without an appointment.",
       "id": "print.visit_office_prompt"
     },
     {
       "section": "print",
       "key": "who_is_receiving",
-      "English": "Your selections:",
       "French": "Vos sélections",
+      "English": "Your selections:",
       "id": "print.who_is_receiving"
     },
     {
       "key": "Privacy",
-      "English": "Privacy",
       "French": "Confidentialité",
+      "English": "Privacy",
       "id": "Privacy",
       "section": ""
     },
     {
       "key": "privacy-link",
-      "English": "https://digital.canada.ca/legal/privacy/",
       "French": "https://numerique.canada.ca/transparence/confidentialite/",
+      "English": "https://digital.canada.ca/legal/privacy/",
       "id": "privacy-link",
       "section": ""
     },
     {
       "key": "refresh-cache",
-      "English": "Refresh cache",
       "French": "Rafraîchir le cache",
+      "English": "Refresh cache",
       "id": "refresh-cache",
       "section": ""
     },
     {
       "key": "reset filters",
+      "French": "Réinitialiser",
       "English": "Reset all",
-      "French": "Effacer tout (fra)",
       "id": "reset filters",
       "section": ""
     },
     {
       "key": "search",
-      "English": "Look up benefits",
       "French": "Rechercher un service",
+      "English": "Search Programs by title and description ",
       "id": "search",
       "section": ""
     },
     {
       "key": "Select all that apply",
-      "English": "Select all that apply",
       "French": "Sélectionez tous ceux qui s’appliquent",
+      "English": "Select all that apply",
       "id": "Select all that apply",
       "section": ""
     },
     {
       "key": "send",
-      "English": "Send",
       "French": "Envoyer",
+      "English": "Send",
       "id": "send",
       "section": ""
     },
     {
       "section": "share",
       "key": "copy_button",
-      "English": "Copy",
       "French": "Copier",
+      "English": "Copy",
       "id": "share.copy_button"
     },
     {
       "section": "share",
       "key": "copy_prompt",
-      "English": "Copy the link below and paste it wherever you need.",
       "French": "Copiez-collez le lien ci-dessous à l’endroit voulu.",
+      "English": "Copy the link below and paste it wherever you need.",
       "id": "share.copy_prompt"
     },
     {
       "section": "share",
       "key": "link_copied",
-      "English": "Link copied.",
       "French": "Le lien a été copié",
+      "English": "Link copied.",
       "id": "share.link_copied"
     },
     {
       "section": "share",
       "key": "not_supported",
-      "English": "Copy button not supported, please copy using hotkeys or your browser's copy function",
       "French": "Le bouton de copie ne fonctionne pas. Veuillez utiliser les raccourcis-clavier ou la fonction de copie de votre navigateur",
+      "English": "Copy button not supported, please copy using hotkeys or your browser's copy function",
       "id": "share.not_supported"
     },
     {
       "key": "skipLink",
-      "English": "Skip to Main Content",
       "French": "Aller au contenu principal",
+      "English": "Skip to Main Content",
       "id": "skipLink",
       "section": ""
     },
     {
       "section": "stats",
       "key": "title",
-      "English": "Statistics",
       "French": "Statistiques",
+      "English": "Statistics",
       "id": "stats.title"
-    },
-    {
-      "section": "svg",
-      "key": "vac_logo",
-      "English": "Symbol of Veterans Affairs Canada",
-      "French": "Symbole d'Anciens Combattants Canada",
-      "id": "svg.vac_logo"
     },
     {
       "section": "titles",
       "key": "all_benefits",
-      "English": "All benefits",
       "French": "Tous les avantages",
+      "English": "All benefits",
       "id": "titles.all_benefits"
     },
     {
       "section": "titles",
-      "key": "benefits_directory",
-      "English": "Benefits directory",
-      "French": "Répertoire des avantages",
-      "id": "titles.benefits_directory"
-    },
-    {
-      "section": "titles",
       "key": "ge_summary",
-      "English": "Selection",
       "French": "Sélection",
+      "English": "Selection",
       "id": "titles.ge_summary"
     },
     {
       "section": "titles",
       "key": "home",
-      "English": "Home",
       "French": "Accueil",
+      "English": "Home",
       "id": "titles.home"
     },
     {
       "section": "titles",
       "key": "index",
-      "English": "VAC Benefits Directory",
       "French": "Répertoire des avantages d'ACC",
+      "English": "VAC Benefits Directory",
       "id": "titles.index"
     },
     {
       "section": "titles",
       "key": "print",
-      "English": "Print",
       "French": "Imprimer",
+      "English": "Print",
       "id": "titles.print"
     },
     {
       "section": "titles",
       "key": "share",
-      "English": "Share this page",
       "French": "Partager cette page",
+      "English": "Share this page",
       "id": "titles.share"
     },
     {
       "section": "titles",
       "key": "stats",
-      "English": "Statistics",
       "French": "Statistiques",
+      "English": "Statistics",
       "id": "titles.stats"
     },
     {
       "key": "yes",
-      "English": "Yes",
       "French": "Oui",
+      "English": "Yes",
       "id": "yes",
       "section": ""
     },
     {
       "section": "favourites",
       "key": "saved_benefits_mobile",
-      "English": "Saved ({{x}})",
       "French": "Sauvegardés ({{x}})",
+      "English": "Saved ({{x}})",
       "id": "favourites.saved_benefits_mobile"
     },
     {
       "section": "directory",
       "key": "edit_selections_mobile",
-      "English": "Edit",
       "French": "Modifier",
+      "English": "Edit",
       "id": "directory.edit_selections_mobile"
     },
     {
       "section": "feedback",
       "key": "tell_us_more",
-      "English": "Tell us in more detail what you think about this online tool.",
       "French": "Dites-nous plus en détail ce que vous pensez de cet outil en ligne.",
+      "English": "Tell us in more detail what you think about this online tool.",
       "id": "feedback.tell_us_more"
     },
     {
       "section": "feedback",
       "key": "character_limit_warning",
-      "English": "{{x}} characters left",
       "French": "{{x}} caractères restants",
+      "English": "{{x}} characters left",
       "id": "feedback.character_limit_warning"
     },
     {
       "section": "feedback",
       "key": "page_title",
-      "English": "Feedback",
       "French": "Commentaires",
+      "English": "Feedback",
       "id": "feedback.page_title"
     },
     {
       "section": "feedback",
       "key": "page_header",
-      "English": "Help us improve",
       "French": "Aidez-nous à nous améliorer",
+      "English": "Help us improve",
       "id": "feedback.page_header"
     },
     {
       "section": "feedback",
       "key": "submitted",
-      "English": "Thank you for taking the time to give us feedback. We are listening and constantly improving.",
       "French": "Merci d’avoir pris le temps de nous faire part de vos commentaires. Nous sommes à l’écoute et nous nous améliorons constamment.",
+      "English": "Thank you for taking the time to give us feedback. We are listening and constantly improving.",
       "id": "feedback.submitted"
     },
     {
       "section": "feedback",
       "key": "ben_dir_link",
-      "English": "Return to Find benefits and services",
       "French": "Retour à la page Rechercher des avantages et des services",
+      "English": "Return to Find benefits and services",
       "id": "feedback.ben_dir_link"
     },
     {
       "section": "feedback",
       "key": "bug_prompt",
-      "English": "Did something go wrong?",
       "French": "Est-ce que quelque chose a mal fonctionné? ",
+      "English": "Did something go wrong?",
       "id": "feedback.bug_prompt"
     },
     {
       "section": "feedback",
       "key": "how_can_info_be_more_useful",
-      "English": "How can we provide information that is more useful?",
       "French": "Comment pouvons-nous fournir des renseignements plus utiles? ",
+      "English": "How can we provide information that is more useful?",
       "id": "feedback.how_can_info_be_more_useful"
     },
     {
       "section": "feedback",
       "key": "details_question",
-      "English": "Do you need help with your application?",
       "French": "Avez-vous besoin d’aide pour remplir votre demande? ",
+      "English": "Do you need help with your application?",
       "id": "feedback.details_question"
     },
     {
       "section": "feedback",
-      "key": "details_expansion_pt1",
-      "English": "The staff at any ",
-      "French": "Le personnel d'un ",
-      "id": "feedback.details_expansion_pt1"
-    },
-    {
-      "section": "feedback",
-      "key": "details_expansion_pt2",
-      "English": "VAC office",
-      "French": "bureau d'ACC",
-      "id": "feedback.details_expansion_pt2"
-    },
-    {
-      "section": "feedback",
-      "key": "details_expansion_pt3",
-      "English": " or ",
-      "French": " ou d'un ",
-      "id": "feedback.details_expansion_pt3"
-    },
-    {
-      "section": "feedback",
-      "key": "details_expansion_pt4",
-      "English": "Transition Centre (TC)",
-      "French": "Centres de transition (CT)",
-      "id": "feedback.details_expansion_pt4"
-    },
-    {
-      "section": "feedback",
-      "key": "details_expansion_pt5",
-      "English": " can assist you, or call us at 1-866-522-2122.",
-      "French": " peut vous aider, ou appelez-nous au 1-866-522-2022.",
-      "id": "feedback.details_expansion_pt5"
-    },
-    {
-      "section": "feedback",
       "key": "response_p1",
-      "English": "Thank you for your feedback. If you have more,",
       "French": "Merci pour votre avis. Si vous en avez d’autres,",
+      "English": "Thank you for your feedback. If you have more,",
       "id": "feedback.response_p1"
     },
     {
       "section": "feedback",
       "key": "response_p2",
-      "English": "let us know.",
       "French": "dites-le-nous. ",
+      "English": "let us know.",
       "id": "feedback.response_p2"
     },
     {
       "section": "feedback",
       "key": "vac_office_link",
-      "English": "https://www.veterans.gc.ca/eng/contact",
-      "French": "https://www.veterans.gc.ca/fra/contactez",
+      "French": "https://numerique.canada.ca/#contact-us-links",
+      "English": "https://digital.canada.ca/#contact-us-links",
       "id": "feedback.vac_office_link"
     },
     {
       "section": "feedback",
       "key": "transition_centre_link",
-      "English": "https://www.veterans.gc.ca/eng/services/information-for/caf/ipsc",
-      "French": "https://www.veterans.gc.ca/fra/services/information-for/caf/ipsc",
+      "French": "https://numerique.canada.ca/#contact-us-links",
+      "English": "https://digital.canada.ca/#contact-us-links",
       "id": "feedback.transition_centre_link"
     },
     {
       "section": "beta_banner",
       "key": "main",
-      "English": "This tool is under development and is for testing purposes only.",
-      "French": "Cet outil fait l’objet d’un développement continu et est conçu à des fins de test. Nous nous efforçons d’obtenir des résultats exacts.  ",
+      "French": "Il s’agit d’un nouveau produit. ",
+      "English": "This is a new product.",
       "id": "beta_banner.main"
     },
     {
       "section": "beta_banner",
       "key": "link_text",
-      "English": "Give feedback to help us improve. ",
       "French": "Faites-nous part de vos commentaires pour nous aider à nous améliorer.",
+      "English": "Give feedback to help us improve. ",
       "id": "beta_banner.link_text"
     },
     {
       "key": "quick_links",
-      "English": "Quick Links",
       "French": "Liens Rapides",
+      "English": "Quick Links",
       "id": "quick_links",
       "section": ""
     },
     {
       "section": "titles",
       "key": "benefits_and_services",
-      "English": "Benefits and services",
       "French": " Avantages et services",
+      "English": "Benefits and services",
       "id": "titles.benefits_and_services"
     },
     {
       "key": "share_colon",
-      "English": "Share:",
       "French": " Partager :",
+      "English": "Share:",
       "id": "share_colon",
       "section": ""
     },
     {
       "section": "titles",
       "key": "saved_list",
-      "English": "Saved list",
       "French": " Liste sauvegardée",
+      "English": "Saved list",
       "id": "titles.saved_list"
     },
     {
       "section": "titles",
       "key": "x_saved_benefits",
-      "English": "{{x}} saved benefits and services",
       "French": "{{x}} avantages et services sauvegardés",
+      "English": "{{x}} saved benefits and services",
       "id": "titles.x_saved_benefits"
     },
     {
       "section": "titles",
       "key": "1_saved_benefit",
+      "French": "1 avantage ou service sauvegardé ",
       "English": "1 saved benefit or service",
-      "French": "avantage ou service sauvegardé ",
       "id": "titles.1_saved_benefit"
-    },
-    {
-      "section": "links",
-      "key": "myvac",
-      "English": "https://www.veterans.gc.ca/eng/e_services/?utm_source=fbas",
-      "French": "https://www.veterans.gc.ca/fra/e_services/?utm_source=fbas",
-      "id": "links.myvac"
     },
     {
       "section": "favourites",
       "key": "quick_links_text",
+      "French": "Les avantages et services que vous enregistrez dans cette liste ne seront disponibles que sur cet appareil pour que vous puissiez les visualiser à nouveau.",
       "English": "The benefits and services you save to this list will remain available only on this device for you to view again.",
-      "French": "(fra) The benefits and services you save to this list will remain available only on this device for you to view again.",
       "id": "favourites.quick_links_text"
     },
     {
       "section": "titles",
       "key": "fip",
-      "English": "Symbol of the Government of Canada",
       "French": "(fra) Symbol of the Government of Canada",
+      "English": "Symbol of the Government of Canada",
       "id": "titles.fip"
+    },
+    {
+      "section": "feedback",
+      "key": "details_expansion_pt1",
+      "French": "Le personnel d'un ",
+      "English": "The staff at any ",
+      "id": "feedback.details_expansion_pt1"
+    },
+    {
+      "section": "feedback",
+      "key": "details_expansion_pt2",
+      "French": "bureau",
+      "English": "office",
+      "id": "feedback.details_expansion_pt2"
+    },
+    {
+      "section": "feedback",
+      "key": "details_expansion_pt3",
+      "French": " ou d'un ",
+      "English": " or ",
+      "id": "feedback.details_expansion_pt3"
+    },
+    {
+      "section": "feedback",
+      "key": "details_expansion_pt4",
+      "French": "Centres de transition (CT)",
+      "English": "Transition Centre (TC)",
+      "id": "feedback.details_expansion_pt4"
+    },
+    {
+      "section": "feedback",
+      "key": "details_expansion_pt5",
+      "French": " peut vous aider, ou appelez-nous au 1-123-456-7890",
+      "English": " can assist you, or call us at 1-123-456-7890",
+      "id": "feedback.details_expansion_pt5"
+    },
+    {
+      "key": "cancel",
+      "French": "Annuler",
+      "English": "Cancel",
+      "id": "cancel",
+      "section": ""
+    },
+    {
+      "id": "banner.canada-ca-search-placeholder",
+      "section": "banner",
+      "key": "canada-ca-search-placeholder",
+      "French": "Rechercher dans Canada.ca",
+      "English": "Search Canada.ca"
     }
   ],
   "questions": [
     {
+      "multiple_choice_options": [
+        "recRDY0mdJIk7aJpd",
+        "recSlISMIzrJIsFed",
+        "reca9wE4ZNBie4mhZ",
+        "reco3nMZnoUEy1QUZ"
+      ],
+      "summary_french": "(fra) Question 1",
+      "guided_experience_french": "Que prévoyez-vous faire au Canada?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
       "variable_name": "patronType",
-      "multiple_choice_options": [
-        "recMBfIiDsvy7DtqP",
-        "recMr2OPtvGBAIiIW",
-        "recUEwhpkEmPKlY24"
-      ],
-      "display_text_english": "Select the one that best fits your situation.",
-      "display_text_french": "(fra) Select the one that best fits your situation.",
-      "question display logic": ["recAf6Llfq3HFyKnt"],
-      "guided_experience_english": "Select the one that best fits your situation.",
-      "guided_experience_french": "(fra) Select the one that best fits your situation.",
-      "guided_experience_page_title_english": "Question 1 Page Title",
-      "guided_experience_page_title_french": "(fra) Question 1 Page Title",
-      "breadcrumb_english": "Question 1",
+      "display_text_french": "Que prévoyez-vous faire au Canada?",
       "breadcrumb_french": "(fra) Question 1",
-      "summary_english": "Question 1",
-      "summary_french": "(fra) Question 1",
-      "id": "recO1FIN3qAzL84Wd"
-    },
-    {
-      "variable_name": "patronAge",
-      "multiple_choice_options": ["recWQlTdT9kWHFPM1", "recpNltZpIREESJcR"],
-      "display_text_english": "How old are you?",
-      "display_text_french": "(fra) question 3",
-      "question display logic 2": ["recAf6Llfq3HFyKnt"],
-      "guided_experience_english": "How old are you?",
-      "guided_experience_french": "(fra) How old are you?",
-      "guided_experience_page_title_english": "Question 1 Page Title",
-      "guided_experience_page_title_french": "(fra) Question 1 Page Title",
-      "breadcrumb_english": "Question 1",
-      "breadcrumb_french": "(fra) Question 1",
-      "summary_english": "Question 1",
-      "summary_french": "(fra) Question 1",
-      "id": "rectN9zvVDSgznXsr",
-      "question display logic": []
-    },
-    {
-      "variable_name": "patronLocation",
-      "multiple_choice_options": ["recyQBe7DxlBDhxm4", "recSf3ZeRvc0UVjM2"],
-      "display_text_english": "Where are you located?",
-      "display_text_french": "(fra) question 2",
-      "guided_experience_english": "Where are you located?",
-      "guided_experience_french": "(fra) Where are you located?",
-      "guided_experience_page_title_english": "Question 2 Page Title",
-      "guided_experience_page_title_french": "(fra) Question 2 Page Title",
-      "breadcrumb_english": "Question 2",
-      "breadcrumb_french": "(fra) Question 2",
-      "summary_english": "Question 2",
-      "summary_french": "(fra) Question 2",
-      "id": "rechSuiuveVbVL86F",
-      "question display logic": []
-    },
-    {
-      "variable_name": "needs",
-      "display_text_english": "Filter by category",
-      "display_text_french": "Filtrer par sujet",
-      "guided_experience_english": "Select the categories of benefits you want to see.",
-      "guided_experience_french": "Sélectionnez les types d'avantages que vous voulez consulter. ",
-      "tooltip_english": "We will use these categories to narrow your results.",
-      "tooltip_french": "Nous utiliserons ces catégories pour limiter les résultats de votre recherche. ",
-      "guided_experience_page_title_english": "Select the categories of benefits you want to see.",
-      "guided_experience_page_title_french": "Sélectionnez les types d'avantages que vous voulez consulter. ",
-      "breadcrumb_english": "Category",
-      "breadcrumb_french": "Catégorie",
-      "summary_english": "Categories of benefits:",
-      "summary_french": "Catégories d’avantages :",
-      "id": "recJNbeB9ngXXE3Xo",
-      "multiple_choice_options": [],
-      "question display logic": []
-    },
-    {
-      "variable_name": "feedback",
-      "multiple_choice_options": [
-        "recDFBzFgGoIjLfEv",
-        "recsy6gOfqFNYKj1e",
-        "recra3ilZxoNMk9sa",
-        "recx0BM3gnBMR6wNG",
-        "recdfRUcFtPjZgFpK"
+      "question display logic": [
+        "recFhP3pPHgtF50mR",
+        "recNuIqcZVzqkCu7r",
+        "recEPBj9ELhZYKdi0",
+        "recZUKgcch5B1rC3o"
       ],
-      "display_text_english": "Overall, how was your experience with this online tool?",
-      "display_text_french": "Dans l’ensemble, quelle a été votre expérience avec cet outil en ligne? ",
-      "id": "recW0LNhldcOFIajO",
-      "question display logic": [],
-      "guided_experience_english": "",
-      "guided_experience_french": "",
-      "guided_experience_page_title_english": "",
-      "guided_experience_page_title_french": "",
-      "breadcrumb_english": "",
-      "breadcrumb_french": "",
-      "summary_english": "",
-      "summary_french": ""
+      "guided_experience_english": "What would you like to do in Canada?",
+      "breadcrumb_english": "What would you like to do in Canada?",
+      "summary_english": "Question 1",
+      "display_text_english": "What would you like to do in Canada?",
+      "id": "recT3o0RDHNlLFkVB"
     },
     {
-      "variable_name": "question2",
-      "id": "rechrjtXOSQYaF5Tq",
-      "multiple_choice_options": [],
-      "display_text_english": "",
-      "display_text_french": "",
-      "question display logic": [],
-      "guided_experience_english": "",
-      "guided_experience_french": "",
-      "guided_experience_page_title_english": "",
-      "guided_experience_page_title_french": "",
-      "breadcrumb_english": "",
+      "multiple_choice_options": ["recReD188mG3lo8Ck", "recClE1nCMgnYqvbc"],
+      "guided_experience_french": "Êtes-vous un résident permanent légitime des États-Unis possédant un numéro de carte valide des Services de citoyenneté et d'immigration des États-Unis (USCIS)?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "visitResidentUS",
+      "display_text_french": "Êtes-vous un résident permanent légitime des États-Unis possédant un numéro de carte valide des Services de citoyenneté et d'immigration des États-Unis (USCIS)?",
+      "guided_experience_english": "Are you a lawful permanent resident of the United States with a valid U.S. Citizenship and Immigration Services (USCIS) number?",
+      "breadcrumb_english": "Are you a lawful permanent resident of the United States with a valid U.S. Citizenship and Immigration Services (USCIS) number?",
+      "display_text_english": "Are you a lawful permanent resident of the United States with a valid U.S. Citizenship and Immigration Services (USCIS) number?",
+      "id": "recVZa9mvK7dP16sZ",
+      "summary_french": "",
       "breadcrumb_french": "",
-      "summary_english": "",
-      "summary_french": ""
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recim5n1erZOrWqix", "recLQTdgoiD7x018j"],
+      "guided_experience_french": "Prévoyez-vous de travailler pendant votre séjour au Canada?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "visitWantWork",
+      "display_text_french": "Prévoyez-vous de travailler pendant votre séjour au Canada?",
+      "guided_experience_english": "Do you plan to work while in Canada?",
+      "breadcrumb_english": "Do you plan to work while in Canada?",
+      "display_text_english": "Do you plan to work while in Canada?",
+      "id": "rectMIMeBJHXbSRmy",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recV2ZeTQjDEaumSk", "recP7ILyZXkUKVMwE"],
+      "guided_experience_french": "Transitez-vous seulement par le Canada pour une durée de moins de 48 heures?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "visitLess48Hr",
+      "display_text_french": "Transitez-vous seulement par le Canada pour une durée de moins de 48 heures?",
+      "guided_experience_english": "Are you only transiting through Canada for less than 48 hours?",
+      "breadcrumb_english": "Are you only transiting through Canada for less than 48 hours?",
+      "display_text_english": "Are you only transiting through Canada for less than 48 hours?",
+      "id": "reckKWBQDReIYyEPM",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recJjwlTnFIn5LK70", "recez6AtfAJ7d4fOC"],
+      "guided_experience_french": "Êtes-vous déjà au Canada?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "studyInCanada",
+      "display_text_french": "Êtes-vous déjà au Canada?",
+      "guided_experience_english": "Are you already in Canada?",
+      "breadcrumb_english": "Are you already in Canada?",
+      "display_text_english": "Are you already in Canada?",
+      "id": "recOvwMhUZwb3mgxo",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recJen9uh491HF16P", "recE8mYPR761zepVg"],
+      "guided_experience_french": "Combien de temps comptez-vous étudier au Canada?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "studyLength",
+      "display_text_french": "Combien de temps comptez-vous étudier au Canada?",
+      "guided_experience_english": "How long do you plan to study in Canada for?",
+      "breadcrumb_english": "How long do you plan to study in Canada for?",
+      "display_text_english": "How long do you plan to study in Canada for?",
+      "id": "rec01HacegioZ84f4",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recyRy2150zgjVetC", "recK1ZJNleXhPsdyT"],
+      "guided_experience_french": "Avez-vous actuellement un permis de travail valide au Canada?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "workValidPermit",
+      "display_text_french": "Avez-vous actuellement un permis de travail valide au Canada?",
+      "guided_experience_english": "Do you currently have a valid work permit in Canada? ",
+      "breadcrumb_english": "Do you currently have a valid work permit? ",
+      "display_text_english": "Do you currently have a valid work permit in Canada? ",
+      "id": "recYoDu53qmrUMd6m",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recdBmO5bzh3QMIvh", "recaeBaQEDPedia9b"],
+      "guided_experience_french": "Projetez-vous de travailler comme aide familial?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "workCaregiver",
+      "display_text_french": "Projetez-vous de travailler comme aide familial?",
+      "guided_experience_english": "Do you work as a caregiver? ",
+      "breadcrumb_english": "Do you work as a caregiver? ",
+      "display_text_english": "Do you work as a caregiver? ",
+      "id": "recf8LmJe3m2pcTk3",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recMxPLDJB3wLPSdg", "recxPJDShvezfmxz5"],
+      "guided_experience_french": "Projetez-vous d'exercer l'une de ces professions?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "workVocationList",
+      "tooltip_english": " Athlete or coach, Aviation accident or incident investigator, Business visitor (who won’t be part of the Canadian labour market), Civil aviation inspector on international flights, Clergy, Convention organizer, Crew member (truck or bus driver, or shipping or airline worker), Emergency service provider, Examiner and evaluator, Expert witness or investigator giving evidence before a regulatory body, tribunal or court of law, Family member of foreign representative, Foreign government officer or representative , Health-care student , Judge, referee or official for an artistic or cultural event , Military personnel under the Visiting Forces Act, News reporter or media crew, Producer or staff member working on advertisements (for less than 2 weeks), Performing artist, Public speaker, Short-term highly-skilled worker, Short-term researcher, Student working off-campus, Student working on-campus",
+      "display_text_french": "Projetez-vous d'exercer l'une de ces professions?",
+      "guided_experience_english": "Do you plan to work any of these jobs?",
+      "breadcrumb_english": "Do you plan to work any of these jobs?",
+      "display_text_english": "Do you plan to work any of these jobs?  Athlete or coach, Aviation accident or incident investigator, Business visitor (who won’t be part of the Canadian labour market), Civil aviation inspector on international flights, Clergy, Convention organizer, Crew member (truck or bus driver, or shipping or airline worker), Emergency service provider, Examiner and evaluator, Expert witness or investigator giving evidence before a regulatory body, tribunal or court of law, Family member of foreign representative, Foreign government officer or representative , Health-care student , Judge, referee or official for an artistic or cultural event , Military personnel under the Visiting Forces Act, News reporter or media crew, Producer or staff member working on advertisements (for less than 2 weeks), Performing artist, Public speaker, Short-term highly-skilled worker, Short-term researcher, Student working off-campus, Student working on-campus",
+      "id": "recE5p7oQu6bbn6Mh",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recVijfxGV2kAm8o1", "recxFHj7rsTVfLqlf"],
+      "guided_experience_french": "Projetez-vous de travailler au Québec?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "workQuebec",
+      "display_text_french": "Projetez-vous de travailler au Québec?",
+      "guided_experience_english": "Do you plan to work in Quebec? ",
+      "breadcrumb_english": "Do you plan to work in Quebec? ",
+      "display_text_english": "Do you plan to work in Quebec? ",
+      "id": "recVcd5ECfIwKl2oC",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recj0k6fiydqpeCes", "recmzMxPauvxKWVOe"],
+      "guided_experience_french": "Avez-vous une expérience professionnelle?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "moveWorkExperience",
+      "display_text_french": "Avez-vous une expérience professionnelle?",
+      "guided_experience_english": "Do you have work experience?",
+      "breadcrumb_english": "Do you have work experience?",
+      "display_text_english": "Do you have work experience?",
+      "id": "recCYLteY7RRhpbRN",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["rechmF2AHNjRl2Md4", "recSWmahsZgEp3YHh"],
+      "guided_experience_french": "Souhaitez-vous travailler comme aide familial?",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "moveCaregiver",
+      "display_text_french": "Souhaitez-vous travailler comme aide familial?",
+      "guided_experience_english": "Are you interested in working as a caregiver? ",
+      "breadcrumb_english": "Are you interested in working as a caregiver? ",
+      "display_text_english": "Are you interested in working as a caregiver? ",
+      "id": "rec7bVc2qTrLiq2M8",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["recoa7xUAMy47FOAe", "recg3AmhjpQkG70g6"],
+      "guided_experience_french": "Avez-vous un époux, un conjoint de fait ou un partenaire au Canada? ",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "moveSpouse",
+      "display_text_french": "Avez-vous un époux, un conjoint de fait ou un partenaire au Canada? ",
+      "guided_experience_english": "Do you have a spouse or common law partner in Canada? ",
+      "breadcrumb_english": "Do you have a spouse or common law partner in Canada? ",
+      "display_text_english": "Do you have a spouse or common law partner in Canada? ",
+      "id": "reci3WgB5wVSK91c5",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
+    },
+    {
+      "multiple_choice_options": ["rec9dSPIha8ZVodzF", "recDsSRvWFiPAmKfT"],
+      "guided_experience_french": "Avez-vous un enfant qui vit au Canada? ",
+      "guided_experience_page_title_english": "Canada Immigration Program Finder",
+      "variable_name": "moveChildren",
+      "display_text_french": "Avez-vous un enfant qui vit au Canada? ",
+      "guided_experience_english": "Do you have a child that lives in Canada? ",
+      "breadcrumb_english": "Do you have a child that lives in Canada? ",
+      "display_text_english": "Do you have a child that lives in Canada? ",
+      "id": "recZv4lEcNnzJqA12",
+      "summary_french": "",
+      "breadcrumb_french": "",
+      "question display logic": [],
+      "summary_english": ""
     }
   ],
   "multipleChoiceOptions": [
     {
-      "display_text_english": "I am currently retired.",
-      "display_text_french": "(fra) I am currently retired.",
-      "linked_question": ["patronType"],
-      "question display logic": ["recAf6Llfq3HFyKnt"],
-      "variable_name": "retired",
-      "benefitEligibility 2": [
-        "recxsWSIH846g2TVp",
-        "reck1SbhOSzV7WcG2",
-        "rec8C6xPv5ORcL7az",
-        "recCjHvbVgGaOUku1",
-        "recQK4IWzP2h81GGZ",
-        "recLY37Jtdy66Pyze"
+      "benefitEligibilityPatronType": [
+        "rec1y5QPIIjvwb3DW",
+        "recsl33gxxAtyyqis",
+        "recdOplIPZVvwxx2O",
+        "recCBiSpfQHz0r94s"
       ],
-      "key (DO NOT EDIT)": "retired",
-      "id": "recMBfIiDsvy7DtqP"
-    },
-    {
-      "display_text_english": "I will be retiring soon.",
-      "display_text_french": "(fra) I will be retiring soon.",
+      "display_text_english": "Visit",
+      "variable_name": "Visit",
+      "display_text_french": "Visiter",
       "linked_question": ["patronType"],
-      "variable_name": "retiring",
-      "benefitEligibility 2": [
-        "recHVn8taUusAcSqx",
-        "rec8jD6F55jpzdfuB",
-        "recxsWSIH846g2TVp"
-      ],
-      "nextSteps": ["recSC7vYD73pBhXx1"],
-      "key (DO NOT EDIT)": "retiring",
-      "id": "recUEwhpkEmPKlY24",
-      "question display logic": []
+      "key (DO NOT EDIT)": "Visit",
+      "id": "recRDY0mdJIk7aJpd",
+      "ge_breadcrumb_english": "What would you like to do in Canada?: Visit",
+      "q_breadcrumb": ["What would you like to do in Canada?"]
     },
     {
-      "display_text_english": "I am part of an organization that helps people who are retired.",
-      "display_text_french": "(fra) I am part of an organization that helps people who are retired.",
+      "display_text_english": "Yes",
+      "variable_name": "visitResidentUSYes",
+      "display_text_french": "Oui",
+      "linked_question": ["visitResidentUS"],
+      "benefitEligibilityVisitResidentUS": [
+        "rec1y5QPIIjvwb3DW",
+        "recsl33gxxAtyyqis",
+        "recCBiSpfQHz0r94s"
+      ],
+      "key (DO NOT EDIT)": "visitResidentUSYes",
+      "id": "recReD188mG3lo8Ck",
+      "ge_breadcrumb_english": "Are you a lawful permanent resident of the United States with a valid U.S. Citizenship and Immigration Services (USCIS) number?: Yes",
+      "q_breadcrumb": [
+        "Are you a lawful permanent resident of the United States with a valid U.S. Citizenship and Immigration Services (USCIS) number?"
+      ],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "No",
+      "variable_name": "visitResidentUSNo",
+      "display_text_french": "Non",
+      "linked_question": ["visitResidentUS"],
+      "benefitEligibilityVisitResidentUS": [
+        "rec1y5QPIIjvwb3DW",
+        "recsl33gxxAtyyqis",
+        "recdOplIPZVvwxx2O",
+        "recCBiSpfQHz0r94s"
+      ],
+      "key (DO NOT EDIT)": "visitResidentUSNo",
+      "id": "recClE1nCMgnYqvbc",
+      "ge_breadcrumb_english": "Are you a lawful permanent resident of the United States with a valid U.S. Citizenship and Immigration Services (USCIS) number?: No",
+      "q_breadcrumb": [
+        "Are you a lawful permanent resident of the United States with a valid U.S. Citizenship and Immigration Services (USCIS) number?"
+      ],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "Yes",
+      "benefitEligibilityVisitWantWork": [
+        "rec1y5QPIIjvwb3DW",
+        "recsl33gxxAtyyqis",
+        "recdOplIPZVvwxx2O",
+        "recCBiSpfQHz0r94s"
+      ],
+      "variable_name": "visitWantWorkYes",
+      "display_text_french": "Oui",
+      "linked_question": ["visitWantWork"],
+      "key (DO NOT EDIT)": "visitWantWorkYes",
+      "id": "recim5n1erZOrWqix",
+      "ge_breadcrumb_english": "Do you plan to work while in Canada?: Yes",
+      "q_breadcrumb": ["Do you plan to work while in Canada?"],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "No",
+      "benefitEligibilityVisitWantWork": [
+        "rec1y5QPIIjvwb3DW",
+        "recsl33gxxAtyyqis",
+        "recdOplIPZVvwxx2O"
+      ],
+      "variable_name": "visitWantWorkNo",
+      "display_text_french": "Non",
+      "linked_question": ["visitWantWork"],
+      "key (DO NOT EDIT)": "visitWantWorkNo",
+      "id": "recLQTdgoiD7x018j",
+      "ge_breadcrumb_english": "Do you plan to work while in Canada?: No",
+      "q_breadcrumb": ["Do you plan to work while in Canada?"],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "Yes",
+      "variable_name": "visitLess48HrYes",
+      "benefitEligibilityVisitLess48Hour": [
+        "recsl33gxxAtyyqis",
+        "rec1y5QPIIjvwb3DW"
+      ],
+      "display_text_french": "Oui",
+      "linked_question": ["visitLess48Hr"],
+      "key (DO NOT EDIT)": "visitLess48HrYes",
+      "id": "recV2ZeTQjDEaumSk",
+      "ge_breadcrumb_english": "Are you only transiting through Canada for less than 48 hours?: Yes",
+      "q_breadcrumb": [
+        "Are you only transiting through Canada for less than 48 hours?"
+      ],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "No",
+      "variable_name": "visitLess48HrNo",
+      "benefitEligibilityVisitLess48Hour": [
+        "recsl33gxxAtyyqis",
+        "recdOplIPZVvwxx2O",
+        "recCBiSpfQHz0r94s"
+      ],
+      "display_text_french": "Non",
+      "linked_question": ["visitLess48Hr"],
+      "key (DO NOT EDIT)": "visitLess48HrNo",
+      "id": "recP7ILyZXkUKVMwE",
+      "ge_breadcrumb_english": "Are you only transiting through Canada for less than 48 hours?: No",
+      "q_breadcrumb": [
+        "Are you only transiting through Canada for less than 48 hours?"
+      ],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "benefitEligibilityPatronType": [
+        "recG8tL1T2AbOG8Ih",
+        "recKVwFF1Eulro6Tk",
+        "recXQnqCmNd1JiNtJ"
+      ],
+      "display_text_english": "Go to school",
+      "variable_name": "goToSchool",
+      "display_text_french": "Faire des études ",
       "linked_question": ["patronType"],
-      "variable_name": "organization",
-      "benefitEligibility 2": ["recrZrtp2eGh52oPL"],
-      "key (DO NOT EDIT)": "organization",
-      "id": "recMr2OPtvGBAIiIW",
-      "question display logic": []
+      "key (DO NOT EDIT)": "goToSchool",
+      "id": "recSlISMIzrJIsFed",
+      "ge_breadcrumb_english": "What would you like to do in Canada?: Go to school",
+      "q_breadcrumb": ["What would you like to do in Canada?"]
     },
     {
-      "display_text_english": "Great",
-      "display_text_french": "Excellente",
-      "linked_question": ["feedback"],
-      "variable_name": "great",
-      "key (DO NOT EDIT)": "great",
-      "id": "recDFBzFgGoIjLfEv",
-      "question display logic": [],
-      "benefitEligibility 2": []
-    },
-    {
-      "display_text_english": "Good",
-      "display_text_french": "Bonne",
-      "linked_question": ["feedback"],
-      "variable_name": "good",
-      "key (DO NOT EDIT)": "good",
-      "id": "recsy6gOfqFNYKj1e",
-      "question display logic": [],
-      "benefitEligibility 2": []
-    },
-    {
-      "display_text_english": "OK",
-      "display_text_french": "Passable",
-      "linked_question": ["feedback"],
-      "variable_name": "ok",
-      "key (DO NOT EDIT)": "ok",
-      "id": "recra3ilZxoNMk9sa",
-      "question display logic": [],
-      "benefitEligibility 2": []
-    },
-    {
-      "display_text_english": "Bad",
-      "display_text_french": "Mauvaise",
-      "linked_question": ["feedback"],
-      "variable_name": "bad",
-      "key (DO NOT EDIT)": "bad",
-      "id": "recx0BM3gnBMR6wNG",
-      "question display logic": [],
-      "benefitEligibility 2": []
-    },
-    {
-      "display_text_english": "Terrible",
-      "display_text_french": "Très mauvaise",
-      "linked_question": ["feedback"],
-      "variable_name": "terrible",
-      "key (DO NOT EDIT)": "terrible",
-      "id": "recdfRUcFtPjZgFpK",
-      "question display logic": [],
-      "benefitEligibility 2": []
-    },
-    {
-      "display_text_english": "I live inside of Canada.",
-      "display_text_french": "(fra) I live inside of Canada.",
-      "linked_question": ["patronLocation"],
-      "variable_name": "insideCanada",
-      "benefitEligibility 3": [
-        "reck1SbhOSzV7WcG2",
-        "rec8C6xPv5ORcL7az",
-        "recQK4IWzP2h81GGZ",
-        "recxsWSIH846g2TVp",
-        "rec8jD6F55jpzdfuB"
+      "display_text_english": "Yes",
+      "variable_name": "studyInCanadaYes",
+      "benefitEligibilityStudyInCanada": [
+        "recG8tL1T2AbOG8Ih",
+        "recKVwFF1Eulro6Tk"
       ],
-      "key (DO NOT EDIT)": "insideCanada",
-      "id": "recyQBe7DxlBDhxm4",
-      "question display logic": [],
-      "benefitEligibility 2": []
+      "display_text_french": "Oui",
+      "linked_question": ["studyInCanada"],
+      "key (DO NOT EDIT)": "studyInCanadaYes",
+      "id": "recJjwlTnFIn5LK70",
+      "ge_breadcrumb_english": "Are you already in Canada?: Yes",
+      "q_breadcrumb": ["Are you already in Canada?"],
+      "benefitEligibilityPatronType": []
     },
     {
-      "display_text_english": "I live outside of Canada.",
-      "display_text_french": "(fra) I live outside of Canada.",
-      "linked_question": ["patronLocation"],
-      "variable_name": "outsideCanada",
-      "benefitEligibility 3": ["recCjHvbVgGaOUku1"],
-      "nextSteps": ["recEdQMoPSP8V1NjC"],
-      "key (DO NOT EDIT)": "outsideCanada",
-      "id": "recSf3ZeRvc0UVjM2",
-      "question display logic": [],
-      "benefitEligibility 2": []
+      "display_text_english": "No",
+      "variable_name": "studyInCanadaNo",
+      "display_text_french": "Non",
+      "linked_question": ["studyInCanada"],
+      "key (DO NOT EDIT)": "studyInCanadaNo",
+      "id": "recez6AtfAJ7d4fOC",
+      "ge_breadcrumb_english": "Are you already in Canada?: No",
+      "q_breadcrumb": ["Are you already in Canada?"],
+      "benefitEligibilityPatronType": []
     },
     {
-      "display_text_english": "I am over the age of 65. ",
-      "display_text_french": "(fra) I am over the age of 65.",
-      "linked_question": ["patronAge"],
-      "variable_name": "over65",
-      "benefitEligibility 6": ["rec8jD6F55jpzdfuB", "recHVn8taUusAcSqx"],
-      "key (DO NOT EDIT)": "over65",
-      "id": "recWQlTdT9kWHFPM1",
-      "question display logic": [],
-      "benefitEligibility 2": []
+      "display_text_english": "Less than 6 months",
+      "variable_name": "studyLength6MonthsOrLess",
+      "benefitEligibilityStudyLength": ["recG8tL1T2AbOG8Ih"],
+      "display_text_french": "Moins de six mois",
+      "linked_question": ["studyLength"],
+      "key (DO NOT EDIT)": "studyLength6MonthsOrLess",
+      "id": "recJen9uh491HF16P",
+      "ge_breadcrumb_english": "How long do you plan to study in Canada for?: Less than 6 months",
+      "q_breadcrumb": ["How long do you plan to study in Canada for?"],
+      "benefitEligibilityPatronType": []
     },
     {
-      "display_text_english": "I am retiring early under the age of 65.",
-      "display_text_french": "(fra) I am retiring early under the age of 65.",
-      "linked_question": ["patronAge"],
-      "variable_name": "under65",
-      "key (DO NOT EDIT)": "under65",
-      "id": "recpNltZpIREESJcR",
-      "question display logic": [],
-      "benefitEligibility 2": []
+      "display_text_english": "More than 6 months",
+      "variable_name": "studyLengthOver6Months",
+      "benefitEligibilityStudyLength": ["recKVwFF1Eulro6Tk"],
+      "display_text_french": "Plus de six mois",
+      "linked_question": ["studyLength"],
+      "key (DO NOT EDIT)": "studyLengthOver6Months",
+      "id": "recE8mYPR761zepVg",
+      "ge_breadcrumb_english": "How long do you plan to study in Canada for?: More than 6 months",
+      "q_breadcrumb": ["How long do you plan to study in Canada for?"],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "benefitEligibilityPatronType": [
+        "recq5IDoQhhirapKY",
+        "recOQdsk1Ns5j2EdW",
+        "rechtJMwA5DA8VpXk",
+        "recSUCUkSXKB8NJiH"
+      ],
+      "display_text_english": "Work on a temporary basis",
+      "variable_name": "workTempBasis",
+      "display_text_french": "Travailler de façon temporaire ",
+      "linked_question": ["patronType"],
+      "key (DO NOT EDIT)": "workTempBasis",
+      "id": "reca9wE4ZNBie4mhZ",
+      "ge_breadcrumb_english": "What would you like to do in Canada?: Work on a temporary basis",
+      "q_breadcrumb": ["What would you like to do in Canada?"]
+    },
+    {
+      "benefitEligibility": ["recq5IDoQhhirapKY", "recSUCUkSXKB8NJiH"],
+      "display_text_english": "Yes",
+      "variable_name": "workValidPermitYes",
+      "display_text_french": "Oui",
+      "linked_question": ["workValidPermit"],
+      "key (DO NOT EDIT)": "workValidPermitYes",
+      "id": "recyRy2150zgjVetC",
+      "ge_breadcrumb_english": "Do you currently have a valid work permit? : Yes",
+      "q_breadcrumb": ["Do you currently have a valid work permit? "],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "benefitEligibility": ["recOQdsk1Ns5j2EdW", "rechtJMwA5DA8VpXk"],
+      "display_text_english": "No",
+      "variable_name": "workValidPermitNo",
+      "display_text_french": "Non",
+      "linked_question": ["workValidPermit"],
+      "key (DO NOT EDIT)": "workValidPermitNo",
+      "id": "recK1ZJNleXhPsdyT",
+      "ge_breadcrumb_english": "Do you currently have a valid work permit? : No",
+      "q_breadcrumb": ["Do you currently have a valid work permit? "],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "Yes",
+      "variable_name": "workCaregiverYes",
+      "display_text_french": "Oui",
+      "benefitEligibility 2": ["recq5IDoQhhirapKY"],
+      "linked_question": ["workCaregiver"],
+      "key (DO NOT EDIT)": "workCaregiverYes",
+      "id": "recdBmO5bzh3QMIvh",
+      "ge_breadcrumb_english": "Do you work as a caregiver? : Yes",
+      "q_breadcrumb": ["Do you work as a caregiver? "],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "No",
+      "variable_name": "workCaregiverNo",
+      "display_text_french": "Non",
+      "benefitEligibility 2": ["recSUCUkSXKB8NJiH"],
+      "linked_question": ["workCaregiver"],
+      "key (DO NOT EDIT)": "workCaregiverNo",
+      "id": "recaeBaQEDPedia9b",
+      "ge_breadcrumb_english": "Do you work as a caregiver? : No",
+      "q_breadcrumb": ["Do you work as a caregiver? "],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "Yes",
+      "variable_name": "workVocationListYes",
+      "display_text_french": "Oui",
+      "linked_question": ["workVocationList"],
+      "key (DO NOT EDIT)": "workVocationListYes",
+      "id": "recMxPLDJB3wLPSdg",
+      "ge_breadcrumb_english": "Do you plan to work any of these jobs?: Yes",
+      "q_breadcrumb": ["Do you plan to work any of these jobs?"],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "benefitEligibility 3": ["recOQdsk1Ns5j2EdW", "rechtJMwA5DA8VpXk"],
+      "display_text_english": "No",
+      "variable_name": "workVocationListNo",
+      "display_text_french": "Non",
+      "linked_question": ["workVocationList"],
+      "key (DO NOT EDIT)": "workVocationListNo",
+      "id": "recxPJDShvezfmxz5",
+      "ge_breadcrumb_english": "Do you plan to work any of these jobs?: No",
+      "q_breadcrumb": ["Do you plan to work any of these jobs?"],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "Yes",
+      "variable_name": "workQuebecYes",
+      "benefitEligibility 4": ["rechtJMwA5DA8VpXk"],
+      "display_text_french": "Oui",
+      "linked_question": ["workQuebec"],
+      "key (DO NOT EDIT)": "workQuebecYes",
+      "id": "recVijfxGV2kAm8o1",
+      "ge_breadcrumb_english": "Do you plan to work in Quebec? : Yes",
+      "q_breadcrumb": ["Do you plan to work in Quebec? "],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "No",
+      "variable_name": "workQuebecNo",
+      "benefitEligibility 4": ["recOQdsk1Ns5j2EdW"],
+      "display_text_french": "Non",
+      "linked_question": ["workQuebec"],
+      "key (DO NOT EDIT)": "workQuebecNo",
+      "id": "recxFHj7rsTVfLqlf",
+      "ge_breadcrumb_english": "Do you plan to work in Quebec? : No",
+      "q_breadcrumb": ["Do you plan to work in Quebec? "],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "benefitEligibilityPatronType": [
+        "reczpBe9CJMScEPuk",
+        "rectWDlgCIyiRK1hQ",
+        "recWfle2QEssusSQR",
+        "recaA2TdFWwSAPxyh",
+        "rec2QmehyVRVrSWxw",
+        "recVdrLkPLmrXF63F",
+        "recFZLig7dIqorVvi",
+        "recTE4VqIyFjwHhNl",
+        "recSyj92iulu8fukI",
+        "reczZVB2C0Va650iO",
+        "recBBPCirDTOJke7z",
+        "recpQhUoeOWscyNGd",
+        "recKNd0335beLJeLO",
+        "recFWXb20g47JGTQR",
+        "recLk7oDm6X7vsmgy",
+        "rec4WAkRMfxbitCPb"
+      ],
+      "display_text_english": "Move there permanently",
+      "variable_name": "movePermanently",
+      "display_text_french": "Y vivre de façon permanente",
+      "linked_question": ["patronType"],
+      "key (DO NOT EDIT)": "movePermanently",
+      "id": "reco3nMZnoUEy1QUZ",
+      "ge_breadcrumb_english": "What would you like to do in Canada?: Move there permanently",
+      "q_breadcrumb": ["What would you like to do in Canada?"]
+    },
+    {
+      "display_text_english": "Yes",
+      "variable_name": "moveWorkExperienceYes",
+      "display_text_french": "Oui",
+      "benefitEligibility 5": [
+        "reczpBe9CJMScEPuk",
+        "recKNd0335beLJeLO",
+        "recFWXb20g47JGTQR",
+        "rec4WAkRMfxbitCPb"
+      ],
+      "linked_question": ["moveWorkExperience"],
+      "key (DO NOT EDIT)": "moveWorkExperienceYes",
+      "id": "recj0k6fiydqpeCes",
+      "ge_breadcrumb_english": "Do you have work experience?: Yes",
+      "q_breadcrumb": ["Do you have work experience?"],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "No",
+      "variable_name": "moveWorkExperienceNo",
+      "display_text_french": "Non",
+      "benefitEligibility 5": [
+        "rectWDlgCIyiRK1hQ",
+        "recWfle2QEssusSQR",
+        "recaA2TdFWwSAPxyh",
+        "rec2QmehyVRVrSWxw",
+        "recpQhUoeOWscyNGd",
+        "recLk7oDm6X7vsmgy"
+      ],
+      "linked_question": ["moveWorkExperience"],
+      "key (DO NOT EDIT)": "moveWorkExperienceNo",
+      "id": "recmzMxPauvxKWVOe",
+      "ge_breadcrumb_english": "Do you have work experience?: No",
+      "q_breadcrumb": ["Do you have work experience?"],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "Yes",
+      "variable_name": "moveCaregiverYes",
+      "benefitEligibility 5 copy": ["rectWDlgCIyiRK1hQ"],
+      "display_text_french": "Oui",
+      "linked_question": ["moveCaregiver"],
+      "key (DO NOT EDIT)": "moveCaregiverYes",
+      "id": "rechmF2AHNjRl2Md4",
+      "ge_breadcrumb_english": "Are you interested in working as a caregiver? : Yes",
+      "q_breadcrumb": ["Are you interested in working as a caregiver? "],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "No",
+      "variable_name": "moveCaregiverNo",
+      "display_text_french": "Non",
+      "linked_question": ["moveCaregiver"],
+      "key (DO NOT EDIT)": "moveCaregiverNo",
+      "id": "recSWmahsZgEp3YHh",
+      "ge_breadcrumb_english": "Are you interested in working as a caregiver? : No",
+      "q_breadcrumb": ["Are you interested in working as a caregiver? "],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "Yes",
+      "variable_name": "moveSpouseYes",
+      "benefitEligibility 5 copy copy": [
+        "recpQhUoeOWscyNGd",
+        "recaA2TdFWwSAPxyh",
+        "recFWXb20g47JGTQR",
+        "recLk7oDm6X7vsmgy"
+      ],
+      "display_text_french": "Oui",
+      "linked_question": ["moveSpouse"],
+      "key (DO NOT EDIT)": "moveSpouseYes",
+      "id": "recoa7xUAMy47FOAe",
+      "ge_breadcrumb_english": "Do you have a spouse or common law partner in Canada? : Yes",
+      "q_breadcrumb": [
+        "Do you have a spouse or common law partner in Canada? "
+      ],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "No",
+      "variable_name": "moveSpouseNo",
+      "benefitEligibility 5 copy copy": [
+        "recWfle2QEssusSQR",
+        "rec2QmehyVRVrSWxw"
+      ],
+      "display_text_french": "Non",
+      "linked_question": ["moveSpouse"],
+      "key (DO NOT EDIT)": "moveSpouseNo",
+      "id": "recg3AmhjpQkG70g6",
+      "ge_breadcrumb_english": "Do you have a spouse or common law partner in Canada? : No",
+      "q_breadcrumb": [
+        "Do you have a spouse or common law partner in Canada? "
+      ],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "Yes",
+      "variable_name": "moveChildrenYes",
+      "display_text_french": "Oui",
+      "linked_question": ["moveChildren"],
+      "benefitEligibility 5 copy copy copy": [
+        "recWfle2QEssusSQR",
+        "recpQhUoeOWscyNGd",
+        "recKNd0335beLJeLO",
+        "rec2QmehyVRVrSWxw",
+        "recLk7oDm6X7vsmgy",
+        "rec4WAkRMfxbitCPb"
+      ],
+      "key (DO NOT EDIT)": "moveChildrenYes",
+      "id": "rec9dSPIha8ZVodzF",
+      "ge_breadcrumb_english": "Do you have a child that lives in Canada? : Yes",
+      "q_breadcrumb": ["Do you have a child that lives in Canada? "],
+      "benefitEligibilityPatronType": []
+    },
+    {
+      "display_text_english": "No",
+      "variable_name": "moveChildrenNo",
+      "display_text_french": "Non",
+      "linked_question": ["moveChildren"],
+      "key (DO NOT EDIT)": "moveChildrenNo",
+      "id": "recDsSRvWFiPAmKfT",
+      "ge_breadcrumb_english": "Do you have a child that lives in Canada? : No",
+      "q_breadcrumb": ["Do you have a child that lives in Canada? "],
+      "benefitEligibilityPatronType": []
     }
   ],
   "questionDisplayLogic": [
     {
       "question": ["patronType"],
-      "has value": ["retired"],
-      "exclude questions": ["rectN9zvVDSgznXsr"],
-      "Name": "patronType = retired",
-      "id": "recAf6Llfq3HFyKnt"
+      "Name": "patronType = ",
+      "id": "recFhP3pPHgtF50mR"
+    },
+    {
+      "question": ["patronType"],
+      "Name": "patronType = ",
+      "id": "recNuIqcZVzqkCu7r"
+    },
+    {
+      "question": ["patronType"],
+      "Name": "patronType = ",
+      "id": "recEPBj9ELhZYKdi0"
+    },
+    {
+      "question": ["patronType"],
+      "Name": "patronType = ",
+      "id": "recZUKgcch5B1rC3o"
     }
   ],
   "questionClearLogic": [],
-  "benefitExamples": [
-    {
-      "english": "financial help",
-      "french": "(fra) financial help",
-      "linked_benefits": ["Financial advice"],
-      "id": "recY4jfkkBNtvxjRZ"
-    },
-    {
-      "english": "advice on how to manage expenses",
-      "french": "(fra) advice on how to manage expenses",
-      "linked_benefits": ["Financial advice"],
-      "id": "recymFq6OgUeYzQTX"
-    },
-    {
-      "english": "cycling classes",
-      "french": "(fra) cycling classes",
-      "linked_benefits": ["Fitness services"],
-      "id": "recMQ0teAthpK2RIQ"
-    },
-    {
-      "english": "swimming lessons",
-      "french": "(fra) swimming lessons",
-      "linked_benefits": ["Fitness services"],
-      "id": "recjEqWCW3tGi5ot9"
-    },
-    {
-      "english": "running group",
-      "french": "(fra) running group",
-      "linked_benefits": ["Fitness services"],
-      "id": "recJnhhGHZxST74bv"
-    },
-    {
-      "english": "ramp",
-      "french": "(fra) ramp",
-      "linked_benefits": ["Home accessibility benefit"],
-      "id": "recvE7fpIHfXRxze2"
-    },
-    {
-      "english": "building materials",
-      "french": "(fra) building materials",
-      "linked_benefits": ["Home accessibility benefit"],
-      "id": "rec3zUmFfPHB8MHxV"
-    },
-    {
-      "english": "fixtures",
-      "french": "(fra) fixtures",
-      "linked_benefits": ["Home accessibility benefit"],
-      "id": "recZugY3g0bM4lWNq"
-    },
-    {
-      "english": "equipment rentals",
-      "french": "(fra) equipment rentals",
-      "linked_benefits": ["Home accessibility benefit"],
-      "id": "recEtdb75wrZa80j8"
-    },
-    {
-      "english": "permits",
-      "french": "(fra) permits",
-      "linked_benefits": ["Home accessibility benefit"],
-      "id": "recurvhqGBWi6a1rJ"
-    }
-  ],
+  "benefitExamples": [],
   "nextSteps": [
     {
+      "french": "Renseignez-vous sur chaque avantage et confirmez votre admissibilité.",
       "bullet_name": "learnmore",
       "english": "Learn more about each benefit and confirm your eligibility.",
-      "french": "(fra) Learn more about each benefit and confirm your eligibility.",
-      "id": "rec96wtbm5Zpuu8FJ",
-      "patronType": []
+      "id": "rece8fLfWmcbu1oE7"
     },
     {
+      "french": "Appelez votre bureau de service local pour préparer un plan de retraite.",
       "bullet_name": "retirementplan",
       "english": "Call your local service office to put together a retirement plan. ",
-      "french": "(fra) Call your local service office to put together a retirement plan. ",
-      "patronType": ["recUEwhpkEmPKlY24"],
-      "id": "recSC7vYD73pBhXx1"
+      "id": "recXEQN2dogbBOdwp"
     },
     {
+      "french": "Assurez-vous que vous êtes toujours admissible aux prestations et services canadiens.",
       "bullet_name": "canadian",
       "english": "Make sure you are still eligible to receive Canadian benefits.",
-      "french": "(fra) Make sure you are still eligible to receive Canadian benefits.",
-      "patronType": ["recSf3ZeRvc0UVjM2"],
-      "id": "recEdQMoPSP8V1NjC"
+      "id": "recJfz4sp92UVy3i0"
     },
     {
+      "french": "Communiquez avec nous pour en savoir plus sur ces avantages et services.",
       "bullet_name": "contactus",
       "english": "Get in touch with us to inquire more about these benefits.",
-      "french": "(fra) Get in touch with us to inquire more about these benefits.",
-      "id": "recExjOdN2q9V6Vh9",
-      "patronType": []
+      "id": "recJz26hnjDVVDbgx"
     }
   ],
   "errors": [],
-  "timestamp": 1554734088323
+  "timestamp": 1619743326882
 }
