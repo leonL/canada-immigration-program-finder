@@ -86,8 +86,8 @@ class FederalBanner extends Component {
           <div css={container}>
             <div className="svg-container">
               <FIP t={t} />
-              <CanadaCaSearch />
             </div>
+            <CanadaCaSearch />
           </div>
         </Container>
       </div>
