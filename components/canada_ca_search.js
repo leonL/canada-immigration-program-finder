@@ -25,9 +25,6 @@ class CanadaCaSearch extends Component {
       >
         <div>
           <input
-            id="wb-srch-q"
-            list="wb-srch-q-ac"
-            className="wb-srch-q form-control"
             name="q"
             type="search"
             size="27"
@@ -42,7 +39,6 @@ class CanadaCaSearch extends Component {
               type="hidden"
             />
           ))}
-          <datalist id="wb-srch-q-ac"></datalist>
         </div>
         <div className="form-group submit">
           <button
