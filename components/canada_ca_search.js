@@ -21,9 +21,9 @@ class CanadaCaSearch extends Component {
         action={canadaCaSearchURL}
         method="get"
         role="search"
-        className="form-inline"
+        aria-label="all canada.ca"
       >
-        <div className="form-group">
+        <div>
           <input
             id="wb-srch-q"
             list="wb-srch-q-ac"
